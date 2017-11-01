@@ -1,0 +1,322 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>江西省水利厅-省水利厅机关开展春季登山活动喜迎五一</title>
+<link href="/scheme/STRONGIPPXXFBPT/sc201304221635015387104/default.css" rel="stylesheet" type="text/css">
+<style>
+.wzycenter2 {
+  width:930px; height:auto; text-indent:0px; margin:0px auto; line-height:24px; padding-top:15px; text-align:justify;
+  }
+.wzycenter3{ width:492px;}
+</style>
+<link href="style.css" rel="stylesheet" type="text/css" />
+<link href="/resource/images/shuiliting/bgstretcher.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/resource/javascript/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/resource/images/shuiliting/bgstretcher.js"></script>
+<script language="javascript">
+
+$(function(){
+     $(".sige").mouseover(function(){
+			  var i = $(".sige").index(this);	
+			  $(this).addClass("sigehs").siblings(".sige").removeClass("sigehs");
+			  $(".sigenr").eq(i).show().siblings(".sigenr").hide();
+			   $(".inthe_more").eq(i).show().siblings(".inthe_more").hide();
+			   
+				 
+			});
+			
+  $(".guanbi").mousedown(function(){
+	  $("#weibo").slideUp(300);
+	  })
+});
+</script>	  
+</head>
+
+<body>
+<div id="top">
+  <div id="head">
+    <div id="head-li"><style>input{vertical-align:middle;}
+img{vertical-align:middle;}</style>
+<script language="javascript">
+$(function(){
+	var Mdate = new Date();
+    var Mnow = "";
+    Mnow = Mdate.getFullYear()+"年"; 
+    Mnow = Mnow + (Mdate.getMonth()+1)+"月"; 
+    Mnow = Mnow + Mdate.getDate()+"日";
+    var Week = ['日','一','二','三','四','五','六'];
+    Mnow = Mnow + " 星期" + Week[Mdate.getDay()];
+    $("#weltimesp").text(Mnow); 
+	});
+function siteSearch(){
+	var key = document.getElementById('siteSearchKey').value;
+	key = encodeURIComponent(key);
+         key = key.replace(/%/g,"@");
+	location = '/key_'+key+'/search.shtml';
+}
+</script>
+     <div id="present-time" class="weltime fle" style="position:relative; width:auto; float:left;"><a href="https://vpn.jxsl.gov.cn/index1.html" target="_blank"><img style="margin-right:5px;" src="/resource/images/shuiliting/tubiao.gif" /></a>今天是<script language=javascript src="/resource/images/shuiliting/calendar.js"></script></div>
+	 <!--
+     <div id="head-right"> <a href="http://mail.jxsl.gov.cn/" target="_blank">登录邮箱</a> | <a href="http://weibo.com/u/3226168764" target="_blank">政务微博</a> | <a href="http://www.jxsl.gov.cn/wapp.shtml" target="_blank">手机wap版</a> | <a href="/rss/index.html" target="_blank">RSS订阅 <img src="/resource/images/shuiliting/rss.gif" /></a></div>
+	 -->
+    </div>
+  </div>
+  <div id="banner"><div style="width:1002px; margin:0px auto; height:220px;overflow:hidden">
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="1002" height="221">
+      <param name="movie" value="/resource/images/top.swf">
+      <param name="quality" value="high">
+      <param name="wmode" value="opaque">
+      <param name="swfversion" value="6.0.65.0">
+      <!-- 此 param 标签提示使用 Flash Player 6.0 r65 和更高版本的用户下载最新版本的 Flash Player。如果您不想让用户看到该提示，请将其删除。 -->
+      <param name="expressinstall" value="Scripts/expressInstall.swf">
+      <!-- 下一个对象标签用于非 IE 浏览器。所以使用 IECC 将其从 IE 隐藏。 -->
+      <!--[if !IE]>-->
+      <object type="application/x-shockwave-flash" data="/resource/images/top.swf" width="1002" height="221">
+        <!--<![endif]-->
+        <param name="quality" value="high">
+        <param name="wmode" value="opaque">
+        <param name="swfversion" value="6.0.65.0">
+        <param name="expressinstall" value="Scripts/expressInstall.swf">
+        <!-- 浏览器将以下替代内容显示给使用 Flash Player 6.0 和更低版本的用户。 -->
+        <div>
+          <h4>此页面上的内容需要较新版本的 Adobe Flash Player。</h4>
+          <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="获取 Adobe Flash Player" width="112" height="33" /></a></p>
+        </div>
+        <!--[if !IE]>-->
+      </object>
+      <!--<![endif]-->
+    </object>
+  </div></div>
+  <div id="nav">
+    <div id="nav-list">
+      <ul>
+        <li style="margin-left:43px;"><a href="/">首页</a></li>
+        <li><a href="/slgk/index.html">水利概况</a></li>
+        <li><a href="/dtxx/index.html">动态信息</a></li>
+        <li><a href="/zwgk/index.html">政务公开</a></li>
+        <li><a href="/wsbs/index.html">网上办事</a></li>
+     <!--    <li><a href="/slgz/index.html">水利工作</a></li> -->
+        <li><a href="/gzhd/index.html">公众互动</a></li>
+        <li><a href="/swh/index.html">水文化</a></li>
+        <li><a href="/tld/index.html">厅领导</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div id="main">
+  <div id="aa">
+     <div id="bignews"><div style="width:95%;height:35px;margin:0 auto;white-space: nowrap;overflow:hidden;" id="scroll_div" class="scroll_div">
+      <div id="scroll_begin">
+        <a href="/dtxx/jxslxw/2017/c47bc31ec4fd4c9f913ec6448b9a6381.html" target="_blank"><img src="/resource/images/shuiliting/tubiao1.gif" /> 水利部考核组对我省2016-2017年度水利建设质量工作进行考核</a><a href="/dtxx/jxslxw/2017/8a762622a97a48e3a8ce6a2946994b51.html" target="_blank"><img src="/resource/images/shuiliting/tubiao1.gif" /> 省安委会调研督导我厅安全生产大检查工作</a><a href="/dtxx/jxslxw/2017/073ba2f1ac4d4fbd9d241212a925f031.html" target="_blank"><img src="/resource/images/shuiliting/tubiao1.gif" /> 省水利厅召开2017年第二次全省水利建设视频调度会</a><a href="/dtxx/jxslxw/2017/56476016929542eb80e2e55621eb9ced.html" target="_blank"><img src="/resource/images/shuiliting/tubiao1.gif" /> 江西省人民检察院驻江西省水利厅检察室成立</a><a href="/dtxx/jxslxw/2017/595787d86ac14d8ca2dedeef0ebf6a51.html" target="_blank"><img src="/resource/images/shuiliting/tubiao1.gif" /> 吴义泉副厅长督导鄱阳湖区堤防工程建设工作</a>
+      </div>
+      <div id="scroll_end"></div>
+    </div>
+     <script type="text/javascript"> 
+function ScrollImgLeft(){ 
+var speed=80; 
+var scroll_begin = document.getElementById("scroll_begin"); 
+var scroll_end = document.getElementById("scroll_end"); 
+var scroll_div = document.getElementById("scroll_div"); 
+scroll_end.innerHTML=scroll_begin.innerHTML; 
+function Marquee(){ 
+if(scroll_end.offsetWidth-scroll_div.scrollLeft<=0) 
+scroll_div.scrollLeft-=scroll_begin.offsetWidth; 
+else 
+scroll_div.scrollLeft++; 
+} 
+var MyMar=setInterval(Marquee,speed); 
+scroll_div.onmouseover=function() {clearInterval(MyMar);} 
+scroll_div.onmouseout=function() {MyMar=setInterval(Marquee,speed);} 
+} 
+</script>
+     <script type="text/javascript">ScrollImgLeft();</script> 
+     
+	 </div>
+    <div id="search">站内搜索：
+      <input name="text" type="text" id="text"  value="请输入关键字" placeholder="请输入关键字"
+	    onClick="if (this.value =='请输入关键字') this.value='';" onKeyUp="javascript:if(event.keyCode==13){siteSearch();}"/>
+      <input name="searchbt" type="button" id="searchbt" onClick="siteSearch()"/ style="vertical-align:middle;"><!--<img src="http://10.36.2.15:7001/resource/uploadfile/image/20140812/20140812161114415.gif"  style="vertical-align:middle;">-->
+      <input type="image" src="/resource/uploadfile/image/20140812/20140812161114415.gif" onclick="window.open('/advancedsearch.shtml');" style="margin-bottom:1px;"/>
+      
+    </div>
+      <div id="weibo" >
+        <div class="guanbi"><img src="/resource/images/shuiliting/close-weibo.png" /></div>
+        <div id="erweima" ><a href="http://weibo.com/u/3226168764" target="_blank"><img src="/resource/images/shuiliting/erweima.gif" /></a></div>
+        <div id="erweima" style="margin-top:6px; border:1px solid #dbdbdb"><img width="105" src="/resource/uploadfile/image/20160516/20160516162711587.jpg" /><span style="font-size:12px;line-height:14px;display:block;margin-top:3px; width:107px;height:33px; text-align:center;color:#585858;">扫描关注江西防汛抗旱官方微信</span></a></div>
+        <div id="jishizixun"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=3082683063&site=qq&menu=yes"><img border="0" src="/resource/images/shuiliting/jishizixun.gif" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
+<!--<a href="http://wpa.qq.com/msgrd?v=3&uin=3082683063&site=qq&menu=yes" target="_blank">
+		<img src="/resource/images/shuiliting/jishizixun.gif" /></a>--></div>
+        <div id="sina"><a href="http://weibo.com/u/3226168764" target="_blank"><img src="/resource/images/shuiliting/sian.gif" /></a></div>
+		<div id="sina"><a href="http://mail.jxsl.gov.cn/" target="_blank"><img src="/resource/images/shuiliting/youxiang.png" /></a></div>
+	<!-- 	<div id="sina"><a href="http://www.jxsl.gov.cn/wapp.shtml" target="_blank"><img src="/resource/images/shuiliting/iphone.jpg" /></a></div> -->
+	<!-- 	<div id="sina">
+		
+		<a href="/rss/index.html" target="_blank"><img src="/resource/images/shuiliting/rss.png" /></a>
+		
+		</div> -->
+
+      </div>
+    </div>
+  </div>
+  <script language="javascript">
+function siteSearch(){
+	var key = document.getElementById('text').value;
+	if(key==''||key=='请输入关键字'){
+		alert('请输入查询条件!');
+		return false;
+	}
+	key = encodeURIComponent(key);
+         key = key.replace(/%/g,"@");
+	location = '/key_'+key+'/search.shtml';
+}
+  </script>
+   <div style="clear:both"></div>
+
+  <div id="mainbody">
+  
+ <div class="wzymian">
+ 
+<div class="wzy"><div class="wzy1">当前位置：
+<a href="/index.html">首页</a> &gt;&gt; <a href="/dtxx/index.html">动态信息</a> &gt;&gt; <a href="/dtxx/jxslxw/index.html">江西水利要闻</a>
+</div></div>
+
+
+
+
+<div class="wzycenter"><div class="wzycenter1">省水利厅机关开展春季登山活动喜迎五一<br/>
+<div style=" width:934px; margin:0 auto; font-size:14px; text-align:center; line-height:2; color:#a2161d;"></div>
+
+           <span style="font-size:12px; line-height:2; color:#333333; font-family:'宋体';"><div class="wzycenter3"><span>发布时间：2017-04-28 14:36:40</span><span>来源：机关党委</span><span>作者：黄薇／文  李珍／图</span>
+		   <span id='hit'></span>
+		 <script>
+		var arcId = 'ff8080815ba4874c015bb3469a2d2446';
+		
+		var hit=0;
+			$.ajax({  
+		type: "GET",//请求方式  gwxpay/donatePay!parser.action
+		url: "/webservice/service/getHit!getHit.action?arcId="+arcId+"&t="+new Date(),//地址，就是action请求路径  
+		dataType: "text",//数据类型text xml json  script  jsonp  
+		success: function(msg){//返回的参数就是 action里面所有的有get和set方法的参数			
+			$("#hit").html('浏览量：'+msg);
+		},
+		error:function(msg){
+			$("#hit").html('');
+		}
+		});		
+				
+		</script>
+		   
+		   
+		   </div></span></div>
+           
+           <div class="wzycenter2">  <p style="TEXT-ALIGN: center" align="center"><img align="center" src="/resource/uploadfile/image/20170428/20170428143431792.jpg"></p>
+<p style="MARGIN-TOP: 0px; TEXT-INDENT: 2em; MARGIN-BOTTOM: 0px">为增强机关凝聚力，丰富厅机关文化生活，提高广大干部职工身体素质，营造团结、和谐、积极的工作氛围，4月27日，省水利厅机关在南昌梅岭开展了春季登山活动。朱来友、祝水贵、纪伟涛、刘超、罗传彬领导与近60名机关干部职工一起参加活动。</p>
+<p style="MARGIN-TOP: 0px; TEXT-INDENT: 2em; MARGIN-BOTTOM: 0px">下午2时，健儿们准时到达梅岭老四坡开始登山。登山过程中，既有相互鼓励、你追我赶的竞技场面，爬山过程中也纵情山水，亲近自然，欣赏沿途美景，充分享受户外活动的乐趣。</p>
+<p style="MARGIN-TOP: 0px; TEXT-INDENT: 2em; MARGIN-BOTTOM: 0px">本次登山活动，倡导了健康、文明、低碳的生活方式，带动了厅机关干部职工的健身热情，使同志们在紧张的工作之余放松了心情，展示了我厅机关干部职工团结协作、勇于攀登、不断追求新目标的精神风貌。</p> </div></div>
+<div class="wzyfoot"></div>
+
+
+
+</div>
+</div>
+    <div class="clear"></div>
+      <!--链接导航-->
+    
+    <!--链接导航-->
+     <div id="fenggexian"></div>
+    <script type="text/javascript">
+//  加入收藏 <a onclick="AddFavorite(window.location,document.title)">加入收藏</a>
+
+function AddFavorite(sURL, sTitle)
+{
+    try
+    {
+        window.external.addFavorite(sURL, sTitle);
+    }
+    catch (e)
+    {
+        try
+        {
+            window.sidebar.addPanel(sTitle, sURL, "");
+        }
+        catch (e)
+        {
+            alert("加入收藏失败，请使用Ctrl+D进行添加");
+        }
+    }
+}
+//设为首页 <a onclick="SetHome(this,window.location)">设为首页</a>
+function SetHome(obj,vrl){
+        try{
+                obj.style.behavior='url(#default#homepage)';obj.setHomePage(vrl);
+        }
+        catch(e){
+                if(window.netscape) {
+                        try {
+                                netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                        }
+                        catch (e) {
+                                alert("此操作被浏览器拒绝！\n请在浏览器地址栏输入'about:config'并回车\n然后将[signed.applets.codebase_principal_support]的值设置为'true',双击即可。");
+                        }
+                        var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                        prefs.setCharPref('browser.startup.homepage',vrl);
+                 }
+        }
+}
+</script>
+<div id="foot" style="clear:both">
+      <div id="footnav"><a href="#" target="_self" onclick="SetHome(this,window.location)">设为首页</a>　<a href="#" target="_self" onclick="AddFavorite(window.location,document.title)">加入收藏</a>　<a href="/WZDT/index.html">网站地图</a>　<a href="/LXWM/index.html">联系我们</a>　<a href="/LYBZ/index.html">留言帮助</a>　<a href="/YSSM/index.html">隐私声明</a>　<a href="/SYBZ/index.html">使用帮助</a></div>
+      <div id="information" style="position:relative;">
+      <div style="position:absolute; height:80px; width:80px; top:16px; right:20px;"><script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/15/000/0000/40695690/CA150000000406956900005.js' type='text/javascript'%3E%3C/script%3E"));</script></div>
+        <p>主办单位： 江西省水利厅 承办单位：江西省防汛信息中心 江西省水利厅版权所有 未经允许 严禁复制或建立镜像<br />
+          地址：南昌市中山西路68号 邮编：330009 E-mail：jxsltxf@jxsl.gov.cn 电话:0791-88825678 传真：0791-88825677<br />
+          ICP备案号：赣ICP备12001609号</p>
+		  <span style="display:none"><script type="text/javascript" src="/webstat?siteid=STRONGIPPXXFBPT&url=/id_ff8080815ba4874c015bb3469a2d2446/news.hmtl"></script></span>
+      </div>
+    </div>
+	<script type="text/javascript">
+//  加入收藏 <a onclick="AddFavorite(window.location,document.title)">加入收藏</a>
+
+function AddFavorite(sURL, sTitle)
+{
+    try
+    {
+        window.external.addFavorite(sURL, sTitle);
+    }
+    catch (e)
+    {
+        try
+        {
+            window.sidebar.addPanel(sTitle, sURL, "");
+        }
+        catch (e)
+        {
+            alert("加入收藏失败，请使用Ctrl+D进行添加");
+        }
+    }
+}
+//设为首页 <a onclick="SetHome(this,window.location)">设为首页</a>
+function SetHome(obj,vrl){
+        try{
+                obj.style.behavior='url(#default#homepage)';obj.setHomePage(vrl);
+        }
+        catch(e){
+                if(window.netscape) {
+                        try {
+                                netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                        }
+                        catch (e) {
+                                alert("此操作被浏览器拒绝！\n请在浏览器地址栏输入'about:config'并回车\n然后将[signed.applets.codebase_principal_support]的值设置为'true',双击即可。");
+                        }
+                        var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                        prefs.setCharPref('browser.startup.homepage',vrl);
+                 }
+        }
+}
+</script>
+  
+</div>
+
+</body>
+</html>
