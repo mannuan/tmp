@@ -68,3 +68,4 @@ class Handler(BaseHandler):
         conn.commit()
         cur.close()
         conn.close()
+        

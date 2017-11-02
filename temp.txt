@@ -1,322 +1,358 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>江西省水利厅-省水利厅机关开展春季登山活动喜迎五一</title>
-<link href="/scheme/STRONGIPPXXFBPT/sc201304221635015387104/default.css" rel="stylesheet" type="text/css">
-<style>
-.wzycenter2 {
-  width:930px; height:auto; text-indent:0px; margin:0px auto; line-height:24px; padding-top:15px; text-align:justify;
-  }
-.wzycenter3{ width:492px;}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>水利要闻</title>
+<input type='hidden' name="页面生成时间" value="2017-11-02 09:36:58">
+<input type='hidden' name="缓存清理时间" value="2017-10-24 09:35:02">
+<meta name="keywords" content=" 四川水利网 四川水利厅 四川省水利厅 水利厅 水利网 " />
+<meta name="description" content=" 初始化频道：水利要闻 四川省水利厅 " />
+ <meta name="baidu-site-verification" content="heJKdF4qoQ" /> <link rel="stylesheet" type="text/css" media="screen" href="/main/uiFramework/huilan-jquery-ui/css/huilan-jquery-ui.css" />
+<script type="text/javascript" src="/main/uiFramework/huilan-jquery-ui/js/huilan-jquery-ui.js?self=true&skin=default"></script>
+ </head>
+ <body>
+  <link rel="stylesheet" type="text/css" media="screen" href="/main/template/main.css" /> 
+  <link rel="stylesheet" type="text/css" media="screen" href="/main/template/page/list/skin.css" /> 
+  <script type="text/javascript" src="/main/template/main.js"></script>
+<input id="contextPath" value="/eportal" type="hidden"/>
+<input id="eprotalCurrentPageId" value="1405" type="hidden"/>
+<input id="eprotalCurrentSiteId" value="1183" type="hidden"/>
+<input id="eprotalCurrentArticleKey"  value=""  type="hidden"/>
+<input id="eprotalCurrentColumnId"  value=""  type="hidden"/>
+<input id="isStaticRequest" value="yes" type="hidden"/>
+<input id="isOpenStaticPageList" value="no" type="hidden"/>
+<input id="defaultPublishPage" value="10" type="hidden"/>
+<input type='hidden' id='eportalappPortletId' value="3">
+<input type='hidden' id='epsPortletId' value="1">
+<script type="text/javascript" src="/main/uiFramework/js/counting/chanelCounting.js"></script>
+<input type="hidden" id="ckEditorUploadFileUrl" value="/eportal/ui?moduleId=2&pageId=1405&struts.portlet.action=/portlet/uploadFile.action&isCkEditor=true"/>
+<input type="hidden" id="sDtoLoginUrl" value="moduleId=3&pageId=1405&struts.portlet.action=/app/member!sDtoLogin.action"/>
+<input type="hidden" id="memberLoginUrl" value="/eportal/ui?moduleId=3&pageId=1405&struts.portlet.action=/app/member!toLogin.action"/>
+<input type="hidden" id="currentLoginMemberId"  value="" />
+<input type="hidden" id="currentLoginMemberName"  value="" />
+<input type="hidden" id="behaviourAnalysisSiteId"  value="" /> 
+<input type="hidden" id="isOpenArticleScan" value="no"/>
+<input type="hidden" id="voteUrl" value="/eportal/ui?moduleId=1&pageId=1405&struts.portlet.action=/portlet/article!vote.action"/>
+<input type="hidden" id="getVoteCount" value="/eportal/ui?moduleId=1&pageId=1405&struts.portlet.action=/portlet/article!getVoteCount.action"/>
+<input type="hidden" id="getHotWordRelativeArticle" value="/eportal/ui?moduleId=1&pageId=1405&struts.portlet.action=/portlet/article!getHotWordRelativeArticle.action&staticRequest=yes"/>
+<input type="hidden" id="deleteArticleUrl" value="/eportal/ui?moduleId=1&pageId=1405&struts.portlet.action=/portlet/article!deleteArticle.action"/>
+<input type="hidden" id="toSnsLoginUrl" value="/eportal/ui?moduleId=3&pageId=1405&struts.portlet.action=/app/member-sns-login!toSnsLogin.action"/>
+<input type="hidden" id="portalLastRequestUrl"  value="" />  <div>
+    <style type="text/css">
+        /*top*/
+    .top{width:100%;}
+    .toplink{width: 100%;background: url("/main/template/common/top/topbg.jpg") repeat-x;height: 28px;line-height: 28px;}
+    .toplink table td a{display: inline-block;margin-right: 10px;}
+    .nav{width: 100%;background:url("/main/template/common/top/banner.jpg") no-repeat center top;overflow: hidden;}
+    .navcon{width: 1000px;margin: 0 auto;}
+    .search{width: 313px;height: 36px;margin: 167px 0 48px 687px;}
+    .ss_input{float: left;background:url("/main/template/common/top/ssbg.jpg") repeat-x;height: 36px;}
+    .ss_input input{width: 201px;height: 20px;padding: 5px;border: none;background-color: #ffffff;margin: 3px 0 0 3px;*margin:2px 0 0 3px;}
+    .ss_but{width: 99px;float: right;}
+    .navdh{width: 100%;height: 43px;}
+    .navleft{width: 15px;height: 43px;background: url("/main/template/common/top/navleft.png") no-repeat center;}
+    .navmid{width:970px;height: 43px;background: url("/main/template/common/top/navbg.jpg") repeat-x center;position: absolute;z-index: 50;}
+    .navrig{width: 15px;height: 43px;background: url("/main/template/common/top/navrig.png") no-repeat center;}
+        /*top end*/
+        /*主导航菜单*/
+    #nav-menu{background:url(/main/template/common/top/naverhover.jpg) repeat-x left top; height:43px;}
+    #nav-menu .container{position:relative;overflow:visible; z-index:99;}
+    #nav-menu .menu{width:100%;height:43px;}
+    #nav-menu .menu li{position:relative;float:left;padding:0 8px 0 5px;display:inline;font-size:14px;}
+    #nav-menu .menu li h3{font-weight:normal;display:inline-block;float:left;}
+    #nav-menu .menu li a.xialaguang{display:inline-block;color:#FFF;height:43px;text-decoration:none;font-size:14px;width:102px;text-align:center;}
+    #nav-menu .menu li a.selected,#nav-menu .menu li a.navhover,#nav-menu .menu li a.xialaguang:hover{color:#1a529c;}
+    #nav-menu .menu li a.navhover, #nav-menu .menu li a.xialaguang:hover{background-color:#3986cc; color:#FFF;}
+    #nav-menu .menu li a.xialaguang span{height:43px;line-height:43px;display:inline-block;font-family: "微软雅黑";font-size: 16px;}
+    #nav-menu .menu li a.selected span,#nav-menu .menu li a.navhover span,#nav-menu .menu li a.xialaguang:hover span{cursor:pointer;}
+    #nav-menu .menu li a.navhover span, #nav-menu .menu li a.xialaguang:hover span{width:100px;}
+    #nav-menu .menu ul.children{display:none;position:absolute;top:43px;left:5px;width:100px;background:url(/main/template/common/top/xabg.jpg) repeat-x left bottom #fff;border:1px solid #cbcbcb;
+        border-top:0;line-height:normal;padding: 5px 0;}
+    #nav-menu .menu ul.children li{width:100px;padding:0px;display:inline-block;font-size:12px;}
+    #nav-menu .menu ul.children li h3{display:block; width:100%;}
+    #nav-menu .menu ul.children li a{width:100%;height:16px;line-height:16px;overflow:hidden;padding:5px 0;display:block;color:#777777;text-align:center;
+        text-decoration:none; font-size:12px;}
+    #nav-menu .menu ul.children li a:hover{background-color:#eee;text-decoration:none;}
+    #_span_jiucuo{position:absolute;right:35%;bottom:-60px;}
+    .footcon p{position:relative;}
 </style>
-<link href="style.css" rel="stylesheet" type="text/css" />
-<link href="/resource/images/shuiliting/bgstretcher.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="/resource/javascript/jquery-1.9.1.min.js"></script>
-<script type="text/javascript" src="/resource/images/shuiliting/bgstretcher.js"></script>
-<script language="javascript">
 
-$(function(){
-     $(".sige").mouseover(function(){
-			  var i = $(".sige").index(this);	
-			  $(this).addClass("sigehs").siblings(".sige").removeClass("sigehs");
-			  $(".sigenr").eq(i).show().siblings(".sigenr").hide();
-			   $(".inthe_more").eq(i).show().siblings(".inthe_more").hide();
-			   
-				 
-			});
-			
-  $(".guanbi").mousedown(function(){
-	  $("#weibo").slideUp(300);
-	  })
-});
-</script>	  
-</head>
-
-<body>
-<div id="top">
-  <div id="head">
-    <div id="head-li"><style>input{vertical-align:middle;}
-img{vertical-align:middle;}</style>
 <script language="javascript">
-$(function(){
-	var Mdate = new Date();
-    var Mnow = "";
-    Mnow = Mdate.getFullYear()+"年"; 
-    Mnow = Mnow + (Mdate.getMonth()+1)+"月"; 
-    Mnow = Mnow + Mdate.getDate()+"日";
-    var Week = ['日','一','二','三','四','五','六'];
-    Mnow = Mnow + " 星期" + Week[Mdate.getDay()];
-    $("#weltimesp").text(Mnow); 
-	});
-function siteSearch(){
-	var key = document.getElementById('siteSearchKey').value;
-	key = encodeURIComponent(key);
-         key = key.replace(/%/g,"@");
-	location = '/key_'+key+'/search.shtml';
-}
+    function globSearch(){
+        window.open("/dig/search.action?ty=&dr=true&w=&f=&rp=&sr=score+desc&q="+document.getElementById("q").value);
+    }
 </script>
-     <div id="present-time" class="weltime fle" style="position:relative; width:auto; float:left;"><a href="https://vpn.jxsl.gov.cn/index1.html" target="_blank"><img style="margin-right:5px;" src="/resource/images/shuiliting/tubiao.gif" /></a>今天是<script language=javascript src="/resource/images/shuiliting/calendar.js"></script></div>
-	 <!--
-     <div id="head-right"> <a href="http://mail.jxsl.gov.cn/" target="_blank">登录邮箱</a> | <a href="http://weibo.com/u/3226168764" target="_blank">政务微博</a> | <a href="http://www.jxsl.gov.cn/wapp.shtml" target="_blank">手机wap版</a> | <a href="/rss/index.html" target="_blank">RSS订阅 <img src="/resource/images/shuiliting/rss.gif" /></a></div>
-	 -->
+<div class="top">
+    <div class="toplink">
+        <!--top-->
+        <table border="0" cellpadding="0" cellspacing="0" width="1000" style="margin: 0 auto">
+            <tbody>
+            <tr>
+                <td align="left">                   
+                    <a href="http://weibo.com/p/1001063422308042/home?from=page_100106&mod=TAB&is_all=1#place" target="_blank">政务微博</a>
+                    <a href="/main/zwwx/index.html" target="_blank">政务微信</a>
+                </td>               
+            </tr>
+            </tbody>
+        </table>
     </div>
-  </div>
-  <div id="banner"><div style="width:1002px; margin:0px auto; height:220px;overflow:hidden">
-    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="1002" height="221">
-      <param name="movie" value="/resource/images/top.swf">
-      <param name="quality" value="high">
-      <param name="wmode" value="opaque">
-      <param name="swfversion" value="6.0.65.0">
-      <!-- 此 param 标签提示使用 Flash Player 6.0 r65 和更高版本的用户下载最新版本的 Flash Player。如果您不想让用户看到该提示，请将其删除。 -->
-      <param name="expressinstall" value="Scripts/expressInstall.swf">
-      <!-- 下一个对象标签用于非 IE 浏览器。所以使用 IECC 将其从 IE 隐藏。 -->
-      <!--[if !IE]>-->
-      <object type="application/x-shockwave-flash" data="/resource/images/top.swf" width="1002" height="221">
-        <!--<![endif]-->
-        <param name="quality" value="high">
-        <param name="wmode" value="opaque">
-        <param name="swfversion" value="6.0.65.0">
-        <param name="expressinstall" value="Scripts/expressInstall.swf">
-        <!-- 浏览器将以下替代内容显示给使用 Flash Player 6.0 和更低版本的用户。 -->
-        <div>
-          <h4>此页面上的内容需要较新版本的 Adobe Flash Player。</h4>
-          <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="获取 Adobe Flash Player" width="112" height="33" /></a></p>
+    <!--banner-->
+    <div class="nav">
+        <div class="navcon">
+            <!--搜索-->
+            <div class="search clearfloat">
+                <form action="/eportal/ui?pageId=91772&currentPage=1&moduleId=ssym449626a1a1d34a2fa58538a58697d706" method="post" class="clearfix">
+        <div class="ss_input"><input onclick="if(this.value=='')this.value=''" onblur="if(this.value=='')this.value='';" value="" onkeypress="if(event.keyCode==13) {return globSearch()}" name="filter_LIKE_TITLE" value="" type="text" id="q" class="hbinput ui-autocomplete-input s_input" autocomplete="off" placeholder="请输入关键字.."></div>
+        <div class="ss_but"><button class="btn" type="submit" name="button" value=""  style="float:left;border:0px;width:99px;height:36px;background:url(/main/template/common/top/ssbut.png) no-repeat;"> </button></div>
+      </form> 
+                
+            </div>
+            <!--搜索 end-->
+
+            <!--导航-->
+            <div class="navdh">
+                <table border="0" cellpadding="0" cellspacing="0" width="1000" style="margin: 0 auto">
+                    <tbody>
+                    <tr>
+                        <td  class="navleft" width="15"></td>
+                        <td  class="navmid" width="970">
+                            <div id="nav-menu">
+                                <ul class="menu">
+                                    <li class="stmenu"><h3><a href="/main/index/index.html" class="xialaguang"><span>首 页</span></a></h3></li>
+                                    <li class="stmenu">
+                                        <h3><a href="/main/zzjg/tld/index.html" class="xialaguang"><span>组织机构</span></a></h3>
+                                        <ul class="children">
+                                            <li><h3><a href="/main/zzjg/tld/index.html"><span>厅党组</span></a></h3></li>
+                                            <li><h3><a href="/main/zzjg/znzz/index.html"><span>职能职责</span></a></h3></li>
+                                            <li><h3><a href="/main/zzjg/nsjg/index.html"><span>内设机构</span></a></h3></li>
+                                            <li><h3><a href="/main/zzjg/tzdw/index.html"><span>直属单位</span></a></h3></li>
+                                            <li><h3><a href="/main/slzx/dfss/index.html"><span>地方水利</span></a></h3></li>
+                                        </ul>
+                                    </li> 
+                                    <li class="stmenu">
+                                        <h3><a href="/main/zwgk/zfxxgk/xxgkzn/index.html" class="xialaguang" style="width:132px;"><span>政务公开</span></a></h3>
+                                        <ul class="children" style="width:132px;">
+                                            <li style="width:130px;"><h3><a href="/main/zwgk/zfxxgk/xxgkzn/index.html"><span>政府信息公开指南</span></a></h3></li>
+                                            <li style="width:130px;"><h3><a href="/main/zwgk/zfxxgk/xxgkml/index.html"><span>政府信息公开申请表</span></a></h3></li>
+                                            <li style="width:130px;"><h3><a href="/main/zwgk/zfxxgk/xxgknb/index.html"><span>政府信息公开年度报告</span></a></h3></li>
+                                            <li style="width:130px;"><h3><a href="/main/zwgk/zfxxgk/ysqgk/index.html"><span>主动公开的政府信息</span></a></h3></li>
+                                            <li style="width:130px;"><h3><a href="/main/zwgk/slgw/sltgw/index.html"><span>水利公文</span></a></h3></li>
+                                            <li style="width:130px;"><h3><a href="/main/zwgk/slgw/zcjd/index.html"><span>政策解读</span></a></h3></li>
+                                        </ul>
+                                    </li>                                   
+                                    <li class="stmenu"><h3><a href="/main/slzx/slyw/index.html" class="xialaguang"><span>水利资讯</span></a></h3>
+                                        <ul class="children">
+                                            <li><h3><a href="/main/slzx/slyw/index.html"><span>水利要闻</span></a></h3></li>
+                                            <li><h3><a href="/main/slzx/zhzx/index.html"><span>综合资讯</span></a></h3></li>
+                                            <li><h3><a href="/main/slzx/dfss/index.html"><span>地方水事</span></a></h3></li>
+                                            <li><h3><a href="/main/slzx/gsgg/index.html"><span>公示公告</span></a></h3></li>
+                                            <li><h3><a href="/main/ztzl15/index.html"><span>专题报道</span></a></h3></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    
+                                    <li class="stmenu">
+                                        <h3><a href="/main/bsfw/qsxkgg/index.html" class="xialaguang"><span>办事服务</span></a></h3>
+                                        <ul class="children">
+                                            <li><h3><a href="/main/bsfw/qsxkgg/index.html"><span>取水许可公告</span></a></h3></li>
+                                            <li><h3><a href="http://www.scswszy.com.cn/swcb/swyb/"><span>水资源服务</span></a></h3></li>
+                                        </ul>
+                                    </li>
+                                    <li class="stmenu">
+                                        <h3><a href="/main/hdjl/zwzx/index.html" class="xialaguang"><span>互动交流</span></a></h3>
+                                        <ul class="children">
+                                            <li><h3><a href="/main/hdjl/zwzx/index.html"><span>政务咨询</span></a></h3></li>
+                                            <li><h3><a href="/main/hdjl/zxft85/index.html"><span>在线访谈</span></a></h3></li>
+                                            <li><h3><a href="/main/hdjl/xfjb/index.html"><span>信访举报</span></a></h3></li>
+                                            <li><h3><a href="/main/hdjl/wsdc/index.html"><span>网上调查</span></a></h3></li>
+                                        </ul>
+                                    </li>
+                                    <li class="stmenu"><h3><a href="/main/wzdt/index.html" class="xialaguang"><span>网站导航</span></a></h3></li>
+                           <li class="stmenu"><h3><a href="/main/wqhg1/index.html" class="xialaguang"><span>往期回顾</span></a></h3></li>
+                                </ul>
+                            </div>
+                        </td>
+                        <td class="navrig" width="15"></td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
         </div>
-        <!--[if !IE]>-->
-      </object>
-      <!--<![endif]-->
-    </object>
-  </div></div>
-  <div id="nav">
-    <div id="nav-list">
-      <ul>
-        <li style="margin-left:43px;"><a href="/">首页</a></li>
-        <li><a href="/slgk/index.html">水利概况</a></li>
-        <li><a href="/dtxx/index.html">动态信息</a></li>
-        <li><a href="/zwgk/index.html">政务公开</a></li>
-        <li><a href="/wsbs/index.html">网上办事</a></li>
-     <!--    <li><a href="/slgz/index.html">水利工作</a></li> -->
-        <li><a href="/gzhd/index.html">公众互动</a></li>
-        <li><a href="/swh/index.html">水文化</a></li>
-        <li><a href="/tld/index.html">厅领导</a></li>
-      </ul>
     </div>
-  </div>
+    <!--导航 end-->
 </div>
-<div id="main">
-  <div id="aa">
-     <div id="bignews"><div style="width:95%;height:35px;margin:0 auto;white-space: nowrap;overflow:hidden;" id="scroll_div" class="scroll_div">
-      <div id="scroll_begin">
-        <a href="/dtxx/jxslxw/2017/c47bc31ec4fd4c9f913ec6448b9a6381.html" target="_blank"><img src="/resource/images/shuiliting/tubiao1.gif" /> 水利部考核组对我省2016-2017年度水利建设质量工作进行考核</a><a href="/dtxx/jxslxw/2017/8a762622a97a48e3a8ce6a2946994b51.html" target="_blank"><img src="/resource/images/shuiliting/tubiao1.gif" /> 省安委会调研督导我厅安全生产大检查工作</a><a href="/dtxx/jxslxw/2017/073ba2f1ac4d4fbd9d241212a925f031.html" target="_blank"><img src="/resource/images/shuiliting/tubiao1.gif" /> 省水利厅召开2017年第二次全省水利建设视频调度会</a><a href="/dtxx/jxslxw/2017/56476016929542eb80e2e55621eb9ced.html" target="_blank"><img src="/resource/images/shuiliting/tubiao1.gif" /> 江西省人民检察院驻江西省水利厅检察室成立</a><a href="/dtxx/jxslxw/2017/595787d86ac14d8ca2dedeef0ebf6a51.html" target="_blank"><img src="/resource/images/shuiliting/tubiao1.gif" /> 吴义泉副厅长督导鄱阳湖区堤防工程建设工作</a>
-      </div>
-      <div id="scroll_end"></div>
-    </div>
-     <script type="text/javascript"> 
-function ScrollImgLeft(){ 
-var speed=80; 
-var scroll_begin = document.getElementById("scroll_begin"); 
-var scroll_end = document.getElementById("scroll_end"); 
-var scroll_div = document.getElementById("scroll_div"); 
-scroll_end.innerHTML=scroll_begin.innerHTML; 
-function Marquee(){ 
-if(scroll_end.offsetWidth-scroll_div.scrollLeft<=0) 
-scroll_div.scrollLeft-=scroll_begin.offsetWidth; 
-else 
-scroll_div.scrollLeft++; 
-} 
-var MyMar=setInterval(Marquee,speed); 
-scroll_div.onmouseover=function() {clearInterval(MyMar);} 
-scroll_div.onmouseout=function() {MyMar=setInterval(Marquee,speed);} 
-} 
-</script>
-     <script type="text/javascript">ScrollImgLeft();</script> 
-     
-	 </div>
-    <div id="search">站内搜索：
-      <input name="text" type="text" id="text"  value="请输入关键字" placeholder="请输入关键字"
-	    onClick="if (this.value =='请输入关键字') this.value='';" onKeyUp="javascript:if(event.keyCode==13){siteSearch();}"/>
-      <input name="searchbt" type="button" id="searchbt" onClick="siteSearch()"/ style="vertical-align:middle;"><!--<img src="http://10.36.2.15:7001/resource/uploadfile/image/20140812/20140812161114415.gif"  style="vertical-align:middle;">-->
-      <input type="image" src="/resource/uploadfile/image/20140812/20140812161114415.gif" onclick="window.open('/advancedsearch.shtml');" style="margin-bottom:1px;"/>
-      
-    </div>
-      <div id="weibo" >
-        <div class="guanbi"><img src="/resource/images/shuiliting/close-weibo.png" /></div>
-        <div id="erweima" ><a href="http://weibo.com/u/3226168764" target="_blank"><img src="/resource/images/shuiliting/erweima.gif" /></a></div>
-        <div id="erweima" style="margin-top:6px; border:1px solid #dbdbdb"><img width="105" src="/resource/uploadfile/image/20160516/20160516162711587.jpg" /><span style="font-size:12px;line-height:14px;display:block;margin-top:3px; width:107px;height:33px; text-align:center;color:#585858;">扫描关注江西防汛抗旱官方微信</span></a></div>
-        <div id="jishizixun"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=3082683063&site=qq&menu=yes"><img border="0" src="/resource/images/shuiliting/jishizixun.gif" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
-<!--<a href="http://wpa.qq.com/msgrd?v=3&uin=3082683063&site=qq&menu=yes" target="_blank">
-		<img src="/resource/images/shuiliting/jishizixun.gif" /></a>--></div>
-        <div id="sina"><a href="http://weibo.com/u/3226168764" target="_blank"><img src="/resource/images/shuiliting/sian.gif" /></a></div>
-		<div id="sina"><a href="http://mail.jxsl.gov.cn/" target="_blank"><img src="/resource/images/shuiliting/youxiang.png" /></a></div>
-	<!-- 	<div id="sina"><a href="http://www.jxsl.gov.cn/wapp.shtml" target="_blank"><img src="/resource/images/shuiliting/iphone.jpg" /></a></div> -->
-	<!-- 	<div id="sina">
-		
-		<a href="/rss/index.html" target="_blank"><img src="/resource/images/shuiliting/rss.png" /></a>
-		
-		</div> -->
-
-      </div>
-    </div>
-  </div>
-  <script language="javascript">
-function siteSearch(){
-	var key = document.getElementById('text').value;
-	if(key==''||key=='请输入关键字'){
-		alert('请输入查询条件!');
-		return false;
-	}
-	key = encodeURIComponent(key);
-         key = key.replace(/%/g,"@");
-	location = '/key_'+key+'/search.shtml';
-}
-  </script>
-   <div style="clear:both"></div>
-
-  <div id="mainbody">
-  
- <div class="wzymian">
- 
-<div class="wzy"><div class="wzy1">当前位置：
-<a href="/index.html">首页</a> &gt;&gt; <a href="/dtxx/index.html">动态信息</a> &gt;&gt; <a href="/dtxx/jxslxw/index.html">江西水利要闻</a>
-</div></div>
-
-
-
-
-<div class="wzycenter"><div class="wzycenter1">省水利厅机关开展春季登山活动喜迎五一<br/>
-<div style=" width:934px; margin:0 auto; font-size:14px; text-align:center; line-height:2; color:#a2161d;"></div>
-
-           <span style="font-size:12px; line-height:2; color:#333333; font-family:'宋体';"><div class="wzycenter3"><span>发布时间：2017-04-28 14:36:40</span><span>来源：机关党委</span><span>作者：黄薇／文  李珍／图</span>
-		   <span id='hit'></span>
-		 <script>
-		var arcId = 'ff8080815ba4874c015bb3469a2d2446';
-		
-		var hit=0;
-			$.ajax({  
-		type: "GET",//请求方式  gwxpay/donatePay!parser.action
-		url: "/webservice/service/getHit!getHit.action?arcId="+arcId+"&t="+new Date(),//地址，就是action请求路径  
-		dataType: "text",//数据类型text xml json  script  jsonp  
-		success: function(msg){//返回的参数就是 action里面所有的有get和set方法的参数			
-			$("#hit").html('浏览量：'+msg);
-		},
-		error:function(msg){
-			$("#hit").html('');
-		}
-		});		
-				
-		</script>
-		   
-		   
-		   </div></span></div>
-           
-           <div class="wzycenter2">  <p style="TEXT-ALIGN: center" align="center"><img align="center" src="/resource/uploadfile/image/20170428/20170428143431792.jpg"></p>
-<p style="MARGIN-TOP: 0px; TEXT-INDENT: 2em; MARGIN-BOTTOM: 0px">为增强机关凝聚力，丰富厅机关文化生活，提高广大干部职工身体素质，营造团结、和谐、积极的工作氛围，4月27日，省水利厅机关在南昌梅岭开展了春季登山活动。朱来友、祝水贵、纪伟涛、刘超、罗传彬领导与近60名机关干部职工一起参加活动。</p>
-<p style="MARGIN-TOP: 0px; TEXT-INDENT: 2em; MARGIN-BOTTOM: 0px">下午2时，健儿们准时到达梅岭老四坡开始登山。登山过程中，既有相互鼓励、你追我赶的竞技场面，爬山过程中也纵情山水，亲近自然，欣赏沿途美景，充分享受户外活动的乐趣。</p>
-<p style="MARGIN-TOP: 0px; TEXT-INDENT: 2em; MARGIN-BOTTOM: 0px">本次登山活动，倡导了健康、文明、低碳的生活方式，带动了厅机关干部职工的健身热情，使同志们在紧张的工作之余放松了心情，展示了我厅机关干部职工团结协作、勇于攀登、不断追求新目标的精神风貌。</p> </div></div>
-<div class="wzyfoot"></div>
-
-
-
-</div>
-</div>
-    <div class="clear"></div>
-      <!--链接导航-->
+<script type="text/javascript">
+    $('#nav-menu .menu > li').hover(function(){
+        $(this).find('.children').animate({ opacity:'show', height:'show' },200);
+       // $(this).find('.xialaguang').addClass('navhover');
+    }, function() {
+        $('.children').stop(true,true).hide();
+        //$('.xialaguang').removeClass('navhover');
+    });
+</script>  </div> 
+  <!--content--> 
+  <div class="position">
+    当前位置：<span><a class='SkinObject' href='/main/index/index.html' target='_parent'>首页</a> > <a class='SkinObject' href='/main/slzx/slyw/index.html' target='_parent'>水利资讯</a> > <a class='SkinObject' href='/main/slzx/slyw/index.html' target='_parent'>水利要闻</a></span> 
+  </div> 
+  <div style="background-color:#fff;overflow:hidden; width:1000px; margin:0 auto;" name="左" id="list_l" runat="server" class=" column">
+     <link rel="stylesheet" type="text/css" media="screen" href="/main/template/module/list_mod/container.css" /> 
+<div class="slt_mod1 portlet" id="d30be31455b44268abfd2bca6f42fce7" style="$portletStyle"> 
+ <div> 
+  <div align="left" class="portlet-header"> 
+   <span id="menu"></span> 
+   <div id="submenud30be31455b44268abfd2bca6f42fce7" class="shadow dn"> 
+    <ul class="float_list_ul">
+          </ul> 
+   </div> 
+  </div> 
+ </div> 
+ <div style="position:relative;"> 
+  <div class="mod1_tit"> 
+   <span>水利要闻</span> 
+  </div> 
+  <div class="mod1_con">
     
-    <!--链接导航-->
-     <div id="fenggexian"></div>
-    <script type="text/javascript">
-//  加入收藏 <a onclick="AddFavorite(window.location,document.title)">加入收藏</a>
 
-function AddFavorite(sURL, sTitle)
-{
-    try
-    {
-        window.external.addFavorite(sURL, sTitle);
-    }
-    catch (e)
-    {
-        try
-        {
-            window.sidebar.addPanel(sTitle, sURL, "");
-        }
-        catch (e)
-        {
-            alert("加入收藏失败，请使用Ctrl+D进行添加");
-        }
-    }
-}
-//设为首页 <a onclick="SetHome(this,window.location)">设为首页</a>
-function SetHome(obj,vrl){
-        try{
-                obj.style.behavior='url(#default#homepage)';obj.setHomePage(vrl);
-        }
-        catch(e){
-                if(window.netscape) {
-                        try {
-                                netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
-                        }
-                        catch (e) {
-                                alert("此操作被浏览器拒绝！\n请在浏览器地址栏输入'about:config'并回车\n然后将[signed.applets.codebase_principal_support]的值设置为'true',双击即可。");
-                        }
-                        var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
-                        prefs.setCharPref('browser.startup.homepage',vrl);
-                 }
-        }
-}
-</script>
-<div id="foot" style="clear:both">
-      <div id="footnav"><a href="#" target="_self" onclick="SetHome(this,window.location)">设为首页</a>　<a href="#" target="_self" onclick="AddFavorite(window.location,document.title)">加入收藏</a>　<a href="/WZDT/index.html">网站地图</a>　<a href="/LXWM/index.html">联系我们</a>　<a href="/LYBZ/index.html">留言帮助</a>　<a href="/YSSM/index.html">隐私声明</a>　<a href="/SYBZ/index.html">使用帮助</a></div>
-      <div id="information" style="position:relative;">
-      <div style="position:absolute; height:80px; width:80px; top:16px; right:20px;"><script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/15/000/0000/40695690/CA150000000406956900005.js' type='text/javascript'%3E%3C/script%3E"));</script></div>
-        <p>主办单位： 江西省水利厅 承办单位：江西省防汛信息中心 江西省水利厅版权所有 未经允许 严禁复制或建立镜像<br />
-          地址：南昌市中山西路68号 邮编：330009 E-mail：jxsltxf@jxsl.gov.cn 电话:0791-88825678 传真：0791-88825677<br />
-          ICP备案号：赣ICP备12001609号</p>
-		  <span style="display:none"><script type="text/javascript" src="/webstat?siteid=STRONGIPPXXFBPT&url=/id_ff8080815ba4874c015bb3469a2d2446/news.hmtl"></script></span>
-      </div>
+
+<table class="cbf_list" border="0" cellpadding="0" cellspacing="0" align="center"> 
+ <tbody> 
+  <tr> 
+   <td>
+    <table cellspacing="0" cellpadding="0" border="0" class="" style="width:100%;border-collapse:collapse;">
+     <tbody>
+      <tr class="">
+       <td>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td class="tit_list"><a href="/main/slzx/slyw/95273/index.html" onclick="void(0)" target="_blank" title="">王铭晖强调部署省级防汛减灾和地质灾害防范督导工作</a></td> 
+          </tr> 
+          <tr> 
+           <td class="sum_list">&nbsp;&nbsp;&nbsp; 9月21日下午，省委常委、省委秘书长、副省长王铭晖主持召开省级防汛减灾和地质灾害防范工作督导组汇报会，听取省级督导组近期工作汇报，并就做好下阶段工作进行...</td> 
+          </tr> 
+          <tr> 
+           <td class="date_list"><i style="color:#ff9412;">点击<span articlehits="yes" articlekey="95273"></span>次</i>&nbsp;&nbsp;2017/09/22&nbsp;&nbsp;省防办厅信息中心</td> 
+          </tr> 
+         </tbody> 
+        </table></td>
+      </tr>
+      <tr class="">
+       <td>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td class="tit_list"><a href="/main/slzx/slyw/95300/index.html" onclick="void(0)" target="_blank" title="">省政府副省长、雅安市委书记叶壮调研南郊水厂引水工程、铜头引水工程和九龙水库建...</a></td> 
+          </tr> 
+          <tr> 
+           <td class="sum_list">&nbsp;&nbsp;&nbsp; 9月19日上午，省政府副省长、雅安市委书记叶壮现场调研南郊水厂引水工程、铜头引水工程和九龙水库工程建设工作。 &nbsp;&nbsp;&nbsp; 叶壮一行检查了南郊水厂引水工程周公...</td> 
+          </tr> 
+          <tr> 
+           <td class="date_list"><i style="color:#ff9412;">点击<span articlehits="yes" articlekey="95300"></span>次</i>&nbsp;&nbsp;2017/09/21&nbsp;&nbsp;雅安市水务局</td> 
+          </tr> 
+         </tbody> 
+        </table></td>
+      </tr>
+      <tr class="">
+       <td>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td class="tit_list"><a href="http://www.sc.gov.cn/10462/10605/10616/10673/2017/9/7/10433007.shtml" onclick="recordLinkArticleHits('95233')" target="_blank" title="">王宁在攀枝花调研时强调：坚持问题导向 全面落实河长制各项工作任务</a></td> 
+          </tr> 
+          <tr> 
+           <td class="sum_list"></td> 
+          </tr> 
+          <tr> 
+           <td class="date_list"><i style="color:#ff9412;">点击<span articlehits="yes" articlekey="95233"></span>次</i>&nbsp;&nbsp;2017/09/21&nbsp;&nbsp;</td> 
+          </tr> 
+         </tbody> 
+        </table></td>
+      </tr>
+      <tr class="">
+       <td>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td class="tit_list"><a href="/main/slzx/slyw/95045/index.html" onclick="void(0)" target="_blank" title="">胡云赴甘孜州督导石渠县脱贫攻坚并调研甘孜州河长制、水利扶贫、防汛减灾工作</a></td> 
+          </tr> 
+          <tr> 
+           <td class="sum_list">&nbsp;&nbsp;&nbsp; 9月12至16日，按照省委、省政府统一安排部署，水利厅厅长、省防汛抗旱指挥部常务副指挥长、省河长制办公室主任胡云率队赴甘孜州石渠县开展脱贫攻坚工作专项督...</td> 
+          </tr> 
+          <tr> 
+           <td class="date_list"><i style="color:#ff9412;">点击<span articlehits="yes" articlekey="95045"></span>次</i>&nbsp;&nbsp;2017/09/18&nbsp;&nbsp;厅办公室</td> 
+          </tr> 
+         </tbody> 
+        </table></td>
+      </tr>
+      <tr class="">
+       <td>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
+         <tbody> 
+          <tr> 
+           <td class="tit_list"><a href="/main/slzx/slyw/95032/index.html" onclick="void(0)" target="_blank" title="">水利厅专家服务团迅速投身德格技术援助工作</a></td> 
+          </tr> 
+          <tr> 
+           <td class="sum_list">&nbsp; &nbsp; 8月下旬，四川省水利厅专家服务团5名专家到德格县后，立即投身全县水务技术指导和传帮带，重点抓好以下工作：一是熟悉德格县水政执法工作，行权平台行政权力清理...</td> 
+          </tr> 
+          <tr> 
+           <td class="date_list"><i style="color:#ff9412;">点击<span articlehits="yes" articlekey="95032"></span>次</i>&nbsp;&nbsp;2017/09/15&nbsp;&nbsp;厅人事处</td> 
+          </tr> 
+         </tbody> 
+        </table></td>
+      </tr>
+     </tbody>
+    </table></td> 
+  </tr> 
+  <tr> 
+   <td height="15"></td> 
+  </tr> 
+  <tr> 
+   <td> 
+    <div class="list_paging"> 
+     <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
+      <tbody> 
+       <tr> 
+        <td align="notset" nowrap="true" valign="bottom"> <a style="cursor:pointer" onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-1.html')" tagname="/main/slzx/slyw/d30be314-1.html" class="pagingbtn">首页</a> <span style="width:5px;display:inline-block;"></span> <a style="cursor:pointer" onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-6.html')" tagname="/main/slzx/slyw/d30be314-6.html" class="pagingNormal">上一页</a> <span style="width:5px;display:inline-block;"></span> <a onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-1.html')" class="pagingNormal">1</a><span style="width:5px;display:inline-block;"></span><a onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-2.html')" class="pagingNormal">2</a><span style="width:5px;display:inline-block;"></span><a onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-3.html')" class="pagingNormal">3</a><span style="width:5px;display:inline-block;"></span><a onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-4.html')" class="pagingNormal">4</a><span style="width:5px;display:inline-block;"></span><a onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-5.html')" class="pagingNormal">5</a><span style="width:5px;display:inline-block;"></span><a onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-6.html')" class="pagingNormal">6</a><span style="width:5px;display:inline-block;"></span><font class="NormalRed">7</font><span style="width:5px;display:inline-block;"></span><a onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-8.html')" class="pagingNormal">8</a><span style="width:5px;display:inline-block;"></span><a onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-9.html')" class="pagingNormal">9</a><span style="width:5px;display:inline-block;"></span><a onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-10.html')" class="pagingNormal">10</a><span style="width:5px;display:inline-block;"></span><a onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-11.html')" class="pagingNormal">...</a><span style="width:5px;display:inline-block;"></span> <span style="width:5px;display:inline-block;"></span> <a style="cursor:pointer" onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-8.html')" tagname="/main/slzx/slyw/d30be314-8.html" class="pagingNormal">下一页</a> <span style="width:5px;display:inline-block;"></span> <a style="cursor:pointer" onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-63.html')" tagname="/main/slzx/slyw/d30be314-63.html" class="pagingbtn">尾页</a> <span style="width:5px;display:inline-block;"></span> </td> 
+       </tr> 
+      </tbody> 
+     </table> 
+    </div><input type="hidden" name="article_paging_list_hidden" moduleid="d30be31455b44268abfd2bca6f42fce7" modulekey="slywd30be31455b44268abfd2bca6f42fce7" totalpage="63" /></td> 
+  </tr> 
+ </tbody> 
+</table> 
+  </div> 
+ </div> 
+</div>   </div> 
+  <!--content end--> 
+  <div>
+    <style type="text/css">
+.footbg{width:100%;height: 131px;background: url("/main/template/common/foot/footbg.jpg") repeat-x;}
+.footcon{width: 1000px;margin: 0 auto;text-align: center;padding-top: 10px;}
+.footcon p{color: #ffffff;line-height: 20px;}
+.footcon p a{color: #FFFFFF;display: inline-block;padding: 0 3px;}
+.footcon p a:hover{text-decoration: underline;}
+.footcon p span a{color: #000;}
+.tg span,.f-con span{margin-right:10px;}
+</style>
+<!--foot-->
+<div class="footbg">
+    <div class="footcon">
+        <p class="f-con">
+            <a href="/main/sybz/index.html" target="_blank">使用帮助</a>
+            <a href="/main/wzsm/index.html" target="_blank">网站声明</a>
+            <a onclick="toErrorCorrectView()" style="cursor:pointer;color: #fff">内容纠错</a><br/>
+            <!--<span>网页访问量：[HITS]</span>-->
+            <span>主办：四川省水利厅 </span>
+            <span>承办：四川省水利厅信息中心</span>
+        </p>
+        <p class="tg"><span>投稿邮箱：news@scwater.gov.cn</span> <span>网管邮箱：webmaster@scwater.gov.cn</span></p>
+        <p>地址：成都市文武路69号  邮编：610017  <br/>
+        值班电话：（汛期）028-86934999 (非汛期)028-86935267<br/>
+            <!--Copyright?scwater.gov.cn. All rights reserved.--> 备案编号：川ICP备010080  备案/许可证号：蜀ICP备08108475号
+        <script id="_jiucuo_" sitecode='5100000011' src='http://pucha.kaipuyun.cn/exposure/jiucuo.js'></script></p>
+
+        <p style="text-align:center"><a href="http://bszs.conac.cn/sitename?method=show&id=069ECBCDE3CA7464E053022819AC07CE" target="_blank"><img width="45" src="/main/template/common/foot/1_03.png"></a></p>
+		<p><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1258399780'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s11.cnzz.com/z_stat.php%3Fid%3D1258399780' type='text/javascript'%3E%3C/script%3E"));</script>
+        </p>
     </div>
-	<script type="text/javascript">
-//  加入收藏 <a onclick="AddFavorite(window.location,document.title)">加入收藏</a>
-
-function AddFavorite(sURL, sTitle)
-{
-    try
-    {
-        window.external.addFavorite(sURL, sTitle);
-    }
-    catch (e)
-    {
-        try
-        {
-            window.sidebar.addPanel(sTitle, sURL, "");
-        }
-        catch (e)
-        {
-            alert("加入收藏失败，请使用Ctrl+D进行添加");
-        }
-    }
-}
-//设为首页 <a onclick="SetHome(this,window.location)">设为首页</a>
-function SetHome(obj,vrl){
-        try{
-                obj.style.behavior='url(#default#homepage)';obj.setHomePage(vrl);
-        }
-        catch(e){
-                if(window.netscape) {
-                        try {
-                                netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
-                        }
-                        catch (e) {
-                                alert("此操作被浏览器拒绝！\n请在浏览器地址栏输入'about:config'并回车\n然后将[signed.applets.codebase_principal_support]的值设置为'true',双击即可。");
-                        }
-                        var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
-                        prefs.setCharPref('browser.startup.homepage',vrl);
-                 }
-        }
-}
-</script>
-  
 </div>
-
-</body>
+<!--foot end-->  </div><input type="hidden"  id="currentLoginUserLoginName"/> </body>
 </html>
