@@ -1,12 +1,3 @@
-#!/usr/bin/env python
-# -*- encoding: utf-8 -*-
-# Created on 2017-11-01 08:40:10
-# Project: water1
-
-from pyspider.libs.base_handler import *
-import sys,re,time,pymysql
-reload(sys)
-sys.setdefaultencoding('utf8')
 start_url = 'http://www.jxsl.gov.cn/'
 key_word = '水利要闻'
 next_page = '下一页'
@@ -14,6 +5,11 @@ page_num = 10
 item_select = '.lmgwfb-w > a'
 filter_word = ['长']
 publish_time_select = '.wzycenter3>span'
+
+from pyspider.libs.base_handler import *
+import sys,re,time,pymysql
+reload(sys)
+sys.setdefaultencoding('utf8')
     
 
 class Handler(BaseHandler):
@@ -84,5 +80,8 @@ class Handler(BaseHandler):
         conn= pymysql.connect(host='127.0.0.1',port=3306,user='root',passwd='sdn',db='repository',charset='utf8')
         cur = conn.cursor()
         cur.execute("insert into shuiliting(title,url,context,crawl_time,publish_time) values(%s,%s,%s,%s,%s)",(title,url,content,crawl_time,publish_time))
+        conn.commit()
+        cur.close()
+        conn.close()
         
 
