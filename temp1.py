@@ -96,10 +96,10 @@ key_attr = "href"
 #    exec "url = each.attr."+title_attr
 
 
-title_url = "http://www.scwater.gov.cn/main/slzx/slyw/96808/index.html"
-content_tag_selector = "tr>td#xilan_cont.xilan_all>p"
-publish_time_name = "时间"
-publish_time_tag_selector = "table.xilan_tab>tbody>tr>td"
+title_url = "http://www.ahsl.gov.cn/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710afe&page=91"
+content_tag_selector = "div.is-list-box>ul>li>a"
+publish_time_name = "发布时间"
+publish_time_tag_selector = "div.is-border is-content-main>div.is-size"
 
 
 req =urllib2.Request(title_url)
@@ -111,9 +111,16 @@ f.write(content)
 f.close()
 from pyquery import PyQuery
 p = PyQuery(content)
+content = ''
 for each in p(content_tag_selector).items():
+#    content += each.text()
     print(each.text())
-for each in p(publish_time_tag_selector).items():
-    if str(each.text().decode('utf-8')).find(publish_time_name) is not -1:
-        print(each.text())
+#publish_time = ''
+#for each in p(publish_time_tag_selector).items():
+#    if str(each.text().decode('utf-8')).find(publish_time_name) is not -1:
+#        publish_time = each.text()
+#print content,publish_time
+        
+        
+        
     

@@ -1,299 +1,253 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html>
- <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>四川省水利厅召开全省加快灾后水利薄弱环节建设新出现小型病险水库除险加固工作会议</title>
-<input type='hidden' name="页面生成时间" value="2017-10-26 14:04:34">
-<input type='hidden' name="缓存清理时间" value="2017-10-24 09:35:02">
-<meta name="keywords" content="  四川水利网 四川水利厅 四川省水利厅 水利厅 水利网 " />
-<meta name="description" content=" 四川省水利厅召开全省加快灾后水利薄弱环节建设新出现小型病险水库除险加固工作会议;四川省水利厅召开全省加快灾后水利薄弱环节建设新出现小型病险水库除险加固工作会议;详细信息 四川省水利厅 " />
- <meta name="baidu-site-verification" content="heJKdF4qoQ" /> <link rel="stylesheet" type="text/css" media="screen" href="/main/uiFramework/huilan-jquery-ui/css/huilan-jquery-ui.css" />
-<script type="text/javascript" src="/main/uiFramework/huilan-jquery-ui/js/huilan-jquery-ui.js?self=true&skin=default"></script>
- </head>
- <body>
-  <link rel="stylesheet" type="text/css" media="screen" href="/main/template/main.css" /> 
-  <link rel="stylesheet" type="text/css" media="screen" href="/main/template/page/xiangxi/skin.css" /> 
-  <script type="text/javascript" src="/main/template/main.js"></script>
-<input id="contextPath" value="/eportal" type="hidden"/>
-<input id="eprotalCurrentPageId" value="1192" type="hidden"/>
-<input id="eprotalCurrentSiteId" value="1183" type="hidden"/>
-<input id="eprotalCurrentArticleKey"  value="96808"  type="hidden"/>
-<input id="eprotalCurrentColumnId"  value="1405"  type="hidden"/>
-<input id="isStaticRequest" value="yes" type="hidden"/>
-<input id="isOpenStaticPageList" value="no" type="hidden"/>
-<input id="defaultPublishPage" value="10" type="hidden"/>
-<input type='hidden' id='eportalappPortletId' value="3">
-<input type='hidden' id='epsPortletId' value="1">
-<script type="text/javascript" src="/main/uiFramework/js/counting/chanelCounting.js"></script>
-<input type="hidden" id="ckEditorUploadFileUrl" value="/eportal/ui?moduleId=2&pageId=1192&struts.portlet.action=/portlet/uploadFile.action&isCkEditor=true"/>
-<input type="hidden" id="sDtoLoginUrl" value="moduleId=3&pageId=1192&struts.portlet.action=/app/member!sDtoLogin.action"/>
-<input type="hidden" id="memberLoginUrl" value="/eportal/ui?moduleId=3&pageId=1192&struts.portlet.action=/app/member!toLogin.action"/>
-<input type="hidden" id="currentLoginMemberId"  value="" />
-<input type="hidden" id="currentLoginMemberName"  value="" />
-<input type="hidden" id="behaviourAnalysisSiteId"  value="" /> 
-<input type="hidden" id="isOpenArticleScan" value="no"/>
-<input type="hidden" id="voteUrl" value="/eportal/ui?moduleId=1&pageId=1192&struts.portlet.action=/portlet/article!vote.action"/>
-<input type="hidden" id="getVoteCount" value="/eportal/ui?moduleId=1&pageId=1192&struts.portlet.action=/portlet/article!getVoteCount.action"/>
-<input type="hidden" id="getHotWordRelativeArticle" value="/eportal/ui?moduleId=1&pageId=1192&struts.portlet.action=/portlet/article!getHotWordRelativeArticle.action&staticRequest=yes"/>
-<input type="hidden" id="deleteArticleUrl" value="/eportal/ui?moduleId=1&pageId=1192&struts.portlet.action=/portlet/article!deleteArticle.action"/>
-<input type="hidden" id="toSnsLoginUrl" value="/eportal/ui?moduleId=3&pageId=1192&struts.portlet.action=/app/member-sns-login!toSnsLogin.action"/>
-<input type="hidden" id="portalLastRequestUrl"  value="" />  <div>
-    <style type="text/css">
-        /*top*/
-    .top{width:100%;}
-    .toplink{width: 100%;background: url("/main/template/common/top/topbg.jpg") repeat-x;height: 28px;line-height: 28px;}
-    .toplink table td a{display: inline-block;margin-right: 10px;}
-    .nav{width: 100%;background:url("/main/template/common/top/banner.jpg") no-repeat center top;overflow: hidden;}
-    .navcon{width: 1000px;margin: 0 auto;}
-    .search{width: 313px;height: 36px;margin: 167px 0 48px 687px;}
-    .ss_input{float: left;background:url("/main/template/common/top/ssbg.jpg") repeat-x;height: 36px;}
-    .ss_input input{width: 201px;height: 20px;padding: 5px;border: none;background-color: #ffffff;margin: 3px 0 0 3px;*margin:2px 0 0 3px;}
-    .ss_but{width: 99px;float: right;}
-    .navdh{width: 100%;height: 43px;}
-    .navleft{width: 15px;height: 43px;background: url("/main/template/common/top/navleft.png") no-repeat center;}
-    .navmid{width:970px;height: 43px;background: url("/main/template/common/top/navbg.jpg") repeat-x center;position: absolute;z-index: 50;}
-    .navrig{width: 15px;height: 43px;background: url("/main/template/common/top/navrig.png") no-repeat center;}
-        /*top end*/
-        /*主导航菜单*/
-    #nav-menu{background:url(/main/template/common/top/naverhover.jpg) repeat-x left top; height:43px;}
-    #nav-menu .container{position:relative;overflow:visible; z-index:99;}
-    #nav-menu .menu{width:100%;height:43px;}
-    #nav-menu .menu li{position:relative;float:left;padding:0 8px 0 5px;display:inline;font-size:14px;}
-    #nav-menu .menu li h3{font-weight:normal;display:inline-block;float:left;}
-    #nav-menu .menu li a.xialaguang{display:inline-block;color:#FFF;height:43px;text-decoration:none;font-size:14px;width:102px;text-align:center;}
-    #nav-menu .menu li a.selected,#nav-menu .menu li a.navhover,#nav-menu .menu li a.xialaguang:hover{color:#1a529c;}
-    #nav-menu .menu li a.navhover, #nav-menu .menu li a.xialaguang:hover{background-color:#3986cc; color:#FFF;}
-    #nav-menu .menu li a.xialaguang span{height:43px;line-height:43px;display:inline-block;font-family: "微软雅黑";font-size: 16px;}
-    #nav-menu .menu li a.selected span,#nav-menu .menu li a.navhover span,#nav-menu .menu li a.xialaguang:hover span{cursor:pointer;}
-    #nav-menu .menu li a.navhover span, #nav-menu .menu li a.xialaguang:hover span{width:100px;}
-    #nav-menu .menu ul.children{display:none;position:absolute;top:43px;left:5px;width:100px;background:url(/main/template/common/top/xabg.jpg) repeat-x left bottom #fff;border:1px solid #cbcbcb;
-        border-top:0;line-height:normal;padding: 5px 0;}
-    #nav-menu .menu ul.children li{width:100px;padding:0px;display:inline-block;font-size:12px;}
-    #nav-menu .menu ul.children li h3{display:block; width:100%;}
-    #nav-menu .menu ul.children li a{width:100%;height:16px;line-height:16px;overflow:hidden;padding:5px 0;display:block;color:#777777;text-align:center;
-        text-decoration:none; font-size:12px;}
-    #nav-menu .menu ul.children li a:hover{background-color:#eee;text-decoration:none;}
-    #_span_jiucuo{position:absolute;right:35%;bottom:-60px;}
-    .footcon p{position:relative;}
-</style>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/temp.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>安徽省水利厅</title>
+<meta name="keywords" content="����ʡˮ����" />
+<meta name="description" content="����ʡˮ����" />
+<!-- InstanceEndEditable -->
+<link rel="stylesheet" type="text/css" href="/media/yaml/core/base.css" />
+<link rel="stylesheet" type="text/css" href="/media/css/is-custom.css" />
+<!--[if lte IE 7]>
+        <link href="/media/yaml/core/iehacks.css" rel="stylesheet" type="text/css" />
+        <![endif]-->
 
-<script language="javascript">
-    function globSearch(){
-        window.open("/dig/search.action?ty=&dr=true&w=&f=&rp=&sr=score+desc&q="+document.getElementById("q").value);
-    }
+<!--[if lt IE 9]>
+        <script src="/media/js/html5.js"></script>
+        <![endif]-->
+<script type="text/javascript" src="/media/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="/media/js/index2.js"></script>               
+<!-- InstanceBeginEditable name="head" -->
+<script type="text/javascript" src="/media/js/tabs.js"></script>
+
+<script type="text/javascript" src="/media/js/jquery-1.8.3.min.js"></script>
+<link rel="stylesheet" href="/media/jquery.treeview/jquery.treeview.css" /> 
+<script src="/media/jquery.treeview/jquery.treeview.js" type="text/javascript"></script> 
+<script src="/media/jquery.treeview/jquery.treeview.async.js" type="text/javascript"></script> 
+<script type="text/javascript" src="/media/js/siteBranch.js"></script> 
+
+<script type="text/javascript"> 
+$(document).ready(function() { 
+$("#browser").treeview({ 
+url: "./index.php?c=xxgkweb&m=jsonTree", 
+link:'./index.php?c=xxgkweb&m=channel&partcode=', 
+target:'rightFrame' 
+}) 
+}); 
 </script>
-<div class="top">
-    <div class="toplink">
-        <!--top-->
-        <table border="0" cellpadding="0" cellspacing="0" width="1000" style="margin: 0 auto">
-            <tbody>
-            <tr>
-                <td align="left">                   
-                    <a href="http://weibo.com/p/1001063422308042/home?from=page_100106&mod=TAB&is_all=1#place" target="_blank">政务微博</a>
-                    <a href="/main/zwwx/index.html" target="_blank">政务微信</a>
-                </td>               
-            </tr>
-            </tbody>
-        </table>
-    </div>
-    <!--banner-->
-    <div class="nav">
-        <div class="navcon">
-            <!--搜索-->
-            <div class="search clearfloat">
-                <form action="/eportal/ui?pageId=91772&currentPage=1&moduleId=ssym449626a1a1d34a2fa58538a58697d706" method="post" class="clearfix">
-        <div class="ss_input"><input onclick="if(this.value=='')this.value=''" onblur="if(this.value=='')this.value='';" value="" onkeypress="if(event.keyCode==13) {return globSearch()}" name="filter_LIKE_TITLE" value="" type="text" id="q" class="hbinput ui-autocomplete-input s_input" autocomplete="off" placeholder="请输入关键字.."></div>
-        <div class="ss_but"><button class="btn" type="submit" name="button" value=""  style="float:left;border:0px;width:99px;height:36px;background:url(/main/template/common/top/ssbut.png) no-repeat;"> </button></div>
-      </form> 
-                
-            </div>
-            <!--搜索 end-->
 
-            <!--导航-->
-            <div class="navdh">
-                <table border="0" cellpadding="0" cellspacing="0" width="1000" style="margin: 0 auto">
-                    <tbody>
-                    <tr>
-                        <td  class="navleft" width="15"></td>
-                        <td  class="navmid" width="970">
-                            <div id="nav-menu">
-                                <ul class="menu">
-                                    <li class="stmenu"><h3><a href="/main/index/index.html" class="xialaguang"><span>首 页</span></a></h3></li>
-                                    <li class="stmenu">
-                                        <h3><a href="/main/zzjg/tld/index.html" class="xialaguang"><span>组织机构</span></a></h3>
-                                        <ul class="children">
-                                            <li><h3><a href="/main/zzjg/tld/index.html"><span>厅党组</span></a></h3></li>
-                                            <li><h3><a href="/main/zzjg/znzz/index.html"><span>职能职责</span></a></h3></li>
-                                            <li><h3><a href="/main/zzjg/nsjg/index.html"><span>内设机构</span></a></h3></li>
-                                            <li><h3><a href="/main/zzjg/tzdw/index.html"><span>直属单位</span></a></h3></li>
-                                            <li><h3><a href="/main/slzx/dfss/index.html"><span>地方水利</span></a></h3></li>
-                                        </ul>
-                                    </li> 
-                                    <li class="stmenu">
-                                        <h3><a href="/main/zwgk/zfxxgk/xxgkzn/index.html" class="xialaguang" style="width:132px;"><span>政务公开</span></a></h3>
-                                        <ul class="children" style="width:132px;">
-                                            <li style="width:130px;"><h3><a href="/main/zwgk/zfxxgk/xxgkzn/index.html"><span>政府信息公开指南</span></a></h3></li>
-                                            <li style="width:130px;"><h3><a href="/main/zwgk/zfxxgk/xxgkml/index.html"><span>政府信息公开申请表</span></a></h3></li>
-                                            <li style="width:130px;"><h3><a href="/main/zwgk/zfxxgk/xxgknb/index.html"><span>政府信息公开年度报告</span></a></h3></li>
-                                            <li style="width:130px;"><h3><a href="/main/zwgk/zfxxgk/ysqgk/index.html"><span>主动公开的政府信息</span></a></h3></li>
-                                            <li style="width:130px;"><h3><a href="/main/zwgk/slgw/sltgw/index.html"><span>水利公文</span></a></h3></li>
-                                            <li style="width:130px;"><h3><a href="/main/zwgk/slgw/zcjd/index.html"><span>政策解读</span></a></h3></li>
-                                        </ul>
-                                    </li>                                   
-                                    <li class="stmenu"><h3><a href="/main/slzx/slyw/index.html" class="xialaguang"><span>水利资讯</span></a></h3>
-                                        <ul class="children">
-                                            <li><h3><a href="/main/slzx/slyw/index.html"><span>水利要闻</span></a></h3></li>
-                                            <li><h3><a href="/main/slzx/zhzx/index.html"><span>综合资讯</span></a></h3></li>
-                                            <li><h3><a href="/main/slzx/dfss/index.html"><span>地方水事</span></a></h3></li>
-                                            <li><h3><a href="/main/slzx/gsgg/index.html"><span>公示公告</span></a></h3></li>
-                                            <li><h3><a href="/main/ztzl15/index.html"><span>专题报道</span></a></h3></li>
-                                        </ul>
-                                    </li>
-                                    
-                                    
-                                    <li class="stmenu">
-                                        <h3><a href="/main/bsfw/qsxkgg/index.html" class="xialaguang"><span>办事服务</span></a></h3>
-                                        <ul class="children">
-                                            <li><h3><a href="/main/bsfw/qsxkgg/index.html"><span>取水许可公告</span></a></h3></li>
-                                            <li><h3><a href="http://www.scswszy.com.cn/swcb/swyb/"><span>水资源服务</span></a></h3></li>
-                                        </ul>
-                                    </li>
-                                    <li class="stmenu">
-                                        <h3><a href="/main/hdjl/zwzx/index.html" class="xialaguang"><span>互动交流</span></a></h3>
-                                        <ul class="children">
-                                            <li><h3><a href="/main/hdjl/zwzx/index.html"><span>政务咨询</span></a></h3></li>
-                                            <li><h3><a href="/main/hdjl/zxft85/index.html"><span>在线访谈</span></a></h3></li>
-                                            <li><h3><a href="/main/hdjl/xfjb/index.html"><span>信访举报</span></a></h3></li>
-                                            <li><h3><a href="/main/hdjl/wsdc/index.html"><span>网上调查</span></a></h3></li>
-                                        </ul>
-                                    </li>
-                                    <li class="stmenu"><h3><a href="/main/wzdt/index.html" class="xialaguang"><span>网站导航</span></a></h3></li>
-                           <li class="stmenu"><h3><a href="/main/wqhg1/index.html" class="xialaguang"><span>往期回顾</span></a></h3></li>
-                                </ul>
-                            </div>
-                        </td>
-                        <td class="navrig" width="15"></td>
-                    </tr>
-                    </tbody>
-                </table>
-            </div>
-        </div>
+<a name="gotop"></a>
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+<div class="is-top ym-clearfix">
+  <div class="is-wrapper">
+    <div class="ym-gl is-tpdl"><a href="http://mail.ahsl.gov.cn/user/?q=login.do" class="is-yxdl" target="_blank">邮箱登录
+      <div class="is-border is-login">
+      <form id="login" name="login" method="post" action="http://mail.ahsl.gov.cn/user/?q=login.do" target="_blank">
+      <input type=hidden name="domain_name" value="ahsl.gov.cn">
+      <input name="go" value="http://mail.ahsl.gov.cn/?q=base" type="hidden">
+        <label class="is-label ym-clearfix"><span class="loginframe-hidden">账号：</span>
+          <input name="user" id="uid" type="text" class="is-label-ipt" placeholder="登录邮箱">
+        </label>
+        <label class="is-label ym-clearfix"><span class="loginframe-hidden">密码：</span>
+          <input name="password" id="password" type="password" class="is-label-ipt" placeholder="请输入密码">
+        </label>
+        <!--<button class="is-loginframe-btn">登　录</button>-->
+        <input type="submit" name="Submit" class="is-loginframe-btn" value="登　录">
+      </form>  
+      </div>
+      </a> <a href="http://www.ahsl.gov.cn/sslvpn/sslvpn.html" class="is-bgdl" target="_blank">网上办公登录</a>
+      </div>
+    <div class="ym-gr" style="width:330px;">
+      <div class="ym-gl is-toplink"><a href="/">网站首页</a> | <a href="/index.php?c=interactrss" target="_blank" class="is-rss">RSS订阅</a> | <a href="/index.php?c=mobile" target="_blank">手机版</a> | <a href="/index.php?c=interactmap" target="_blank">站点地图</a></div>
     </div>
-    <!--导航 end-->
+  </div>
 </div>
-<script type="text/javascript">
-    $('#nav-menu .menu > li').hover(function(){
-        $(this).find('.children').animate({ opacity:'show', height:'show' },200);
-       // $(this).find('.xialaguang').addClass('navhover');
-    }, function() {
-        $('.children').stop(true,true).hide();
-        //$('.xialaguang').removeClass('navhover');
-    });
-</script>  </div> 
-  <!--content--> 
-  <div class="bodybg"> 
-   <div class="xiangxi bgstyle column" id="xiangxi" name="信息" runat="server">
-      <div class="portlet" id="6ded423d1f434e14bbd0bd4aa2a37dfb"> 
- <div align="left" class="portlet-header"> 
-  <span id="menu">
-        </span> 
-  <div id="submenu6ded423d1f434e14bbd0bd4aa2a37dfb" class="shadow dn"> 
-   <ul class="float_list_ul">
-        </ul> 
-  </div> 
- </div> 
- <div>
-   
+<div class="is-header">
 
-
-<div class="position">
-  您当前所在位置： 
- <span><a class="SkinObject" href="/main/index/index.html" target="_parent">首页</a>&nbsp;&gt;&nbsp;<a class="SkinObject" href="/main/slzx/slyw/index.html" target="_parent">水利资讯</a>&nbsp;&gt;&nbsp;<a class="SkinObject" href="/main/slzx/slyw/index.html" target="_parent">水利要闻</a></span> 
-</div> 
-<table class="xilan_cont" align="center" border="0" cellpadding="0" cellspacing="0" width="1000"> 
- <tbody> 
-  <tr> 
-   <td> 
-    <table class="xilan_tab" align="center" cellpadding="0" cellspacing="0" width="96%"> 
-     <tbody> 
-      <tr> 
-       <td align="center"> <h1 id="jiuctit">四川省水利厅召开全省加快灾后水利薄弱环节建设新出现小型病险水库除险加固工作会议</h1> 
-        <hr size="1" /> </td> 
-      </tr> 
-      <tr> 
-       <td style="height: 30px;" align="center">作者：　来源：四川省农田水利局　时间：2017年10月26日 点击率：<span articlecounts="yes"></span>【<a href="javascript:print()">打印</a>】【<a href="javascript:close()">关闭</a>】 </td> 
-      </tr> 
-      <tr> 
-       <td id="xilan_cont" class="xilan_all"><p><span style="font-family: 宋体;"><span style="font-size: 15px;">&nbsp;&nbsp;&nbsp; 为顺利推进全省列入《加快灾后水利薄弱环节建设实施方案》的新出现小型病险水库除险加固工作，特别是加快2017年下达项目的实施，保证目标任务如期圆满完成，强化责任和措施落实，省水利厅于2017年10月23-24日在成都召开了“四川省加快灾后水利薄弱环节建设新出现小型病险水库除险加固工作培训会”，对全省新出现小型病险水库除险加固工作进行安排部署。省水利厅党组成员、副厅长李勇蔺同志出席会议并讲话。<br />&nbsp;&nbsp;&nbsp; 李勇蔺副厅长在讲话中，总结全省历次小型病险水库除险加固工作取得成绩，指出了当前小型水库运行安全管理等方面存在的问题，特别是除险加固工作面临的艰巨任务。他要求市、县水务部门：一要高度重视，提高认识，小型水库除险加固不同于一般水利工程项目，要充分认识除险加固对部门工作特别是安全管理的重要性。要理清问题，以问题为导向，狠抓措施落实。切实改进业务部门自身工作，主动衔接财政等各有关部门，主动向党政领导汇报，着力解决资金、财评等建设中容易出现的问题，加快推进工作。二要坚持改革创新，按照水利部要求，处理好水利工程所有权、管理权和使用权的关系，创新管理模式。三要以加强依法管水为手段，按照《水法》和修订后的《四川省水利工程管理条例》等要求，划定水利工程管理和保护范围，加强工程管理。四要通过现代化管理手段，提高管理水平。五要充分发挥市、州管理积极性，强化完善监督检查和责任追究制度。六要狠抓小型水库运行安全管理工作责任落实，确保工程安全、人员安全和水质安全，充分发挥工程效益。七要切实抓好小型水利工程项目实施过程中的廉政问题。<br />省农水局有关负责人就具体工作进行了讲解说明。<br />&nbsp;&nbsp;&nbsp; 此次培训会议召开，标志着我省“十三五”期间列入规划的2172座新出现小型病险水库除险加固工作正式启动。</span></span></p></td> 
-      </tr> 
-      <tr> 
-       <td> 
-        <div style="width:100%; font-family: Tahoma,Arial,Helvetica;font-size: 12px;font-weight: normal;"> 
-         <table cellspacing="0" cellpadding="0" border="0" width="100%"> 
-          <tbody> 
-           <tr> 
-            <td nowrap="true" align="center" valign="bottom" style="width:60%;"> <span style="width:5px;display:inline-block;"></span> <span style="width:5px;display:inline-block;"></span> <span style="width:5px;display:inline-block;"></span> <input type="hidden" id="articleDetailPagingTotalCount" value="0" /> </td> 
-           </tr> 
-          </tbody> 
-         </table> 
-        </div></td> 
-      </tr> 
-      <tr> 
-       <td class="xilan_icon"><span>上一篇：</span><span previousarticle="yes" articlekey="96808" columnid="1405"></span></td> 
-      </tr> 
-      <tr> 
-       <td class="xilan_icon"><span>下一篇：</span><span nextarticle="yes" articlekey="96808" columnid="1405"></span></td> 
-      </tr> 
-      <tr> 
-       <td style="height: 15px;"> </td> 
-      </tr> 
-      <tr> 
-       <td style="border-top:1px dashed #ccc;padding-bottom:10px;"></td> 
-      </tr> 
-      <tr> 
-       <td></td> 
-      </tr> 
-      <tr> 
-       <td style="height: 15px;"> </td> 
-      </tr> 
-     </tbody> 
-    </table> </td> 
-  </tr> 
- </tbody> 
-</table><input type='hidden' id='articleKey' value=96808><script type=text/javascript src='/main/uiFramework/js/counting/articleCounting.js'></script><script type=text/javascript src='/main/uiFramework/js/counting/articleCountingByRate.js'></script> 
- </div> 
-</div>    </div> 
-  </div> 
-  <!--content end--> 
-  <div>
-    <style type="text/css">
-.footbg{width:100%;height: 131px;background: url("/main/template/common/foot/footbg.jpg") repeat-x;}
-.footcon{width: 1000px;margin: 0 auto;text-align: center;padding-top: 10px;}
-.footcon p{color: #ffffff;line-height: 20px;}
-.footcon p a{color: #FFFFFF;display: inline-block;padding: 0 3px;}
-.footcon p a:hover{text-decoration: underline;}
-.footcon p span a{color: #000;}
-.tg span,.f-con span{margin-right:10px;}
+<!-- 图片切换 Start -->
+<style type="text/css">
+  .slide {
+	margin: 0px auto; width: 100%; height: 178px; overflow: hidden; position: relative; z-index: 1;
+	}
+	.slide ul {
+		left: 0px; top: 0px; height: 178px; overflow: hidden; position: absolute; z-index: 2;
+	}
+	.slide ul li {
+		left: 0px; top: 0px; width: 100%; height: 178px; overflow: hidden; display: none; position: absolute;
+	}
 </style>
-<!--foot-->
-<div class="footbg">
-    <div class="footcon">
-        <p class="f-con">
-            <a href="/main/sybz/index.html" target="_blank">使用帮助</a>
-            <a href="/main/wzsm/index.html" target="_blank">网站声明</a>
-            <a onclick="toErrorCorrectView()" style="cursor:pointer;color: #fff">内容纠错</a><br/>
-            <!--<span>网页访问量：[HITS]</span>-->
-            <span>主办：四川省水利厅 </span>
-            <span>承办：四川省水利厅信息中心</span>
-        </p>
-        <p class="tg"><span>投稿邮箱：news@scwater.gov.cn</span> <span>网管邮箱：webmaster@scwater.gov.cn</span></p>
-        <p>地址：成都市文武路69号  邮编：610017  <br/>
-        值班电话：（汛期）028-86934999 (非汛期)028-86935267<br/>
-            <!--Copyright?scwater.gov.cn. All rights reserved.--> 备案编号：川ICP备010080  备案/许可证号：蜀ICP备08108475号
-        <script id="_jiucuo_" sitecode='5100000011' src='http://pucha.kaipuyun.cn/exposure/jiucuo.js'></script></p>
+  <DIV class="slide" id="Slide">
+    <UL>
+    
+      <LI style='background: url("/media/images/public/banner.jpg") no-repeat top;'>
+      <!--<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="100%" height="178">
+    <param name="movie" value="/media/swf/guang.swf">
+    <param name="quality" value="high">
+    <param name="wmode" value="transparent">
+    <embed src="/media/swf/guang.swf" wmode="transparent" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="100%" height="178"></embed>
+  	  </object>-->
+      </LI>
+      <LI style='background: url("/media/images/public/banner2.jpg") no-repeat top;'>
+      </LI>
+      <LI style='background: url("/media/images/public/banner3.jpg") no-repeat top;'>
+      </LI>
+      <LI style='background: url("/media/images/public/banner4.jpg") no-repeat top;'>
+      </LI>
+    </UL>      
+    <SPAN id="btnPrev"></SPAN>
+    <SPAN id="btnNext"></SPAN>
+    <DIV class="sum" style="display: none;"><P id="slideNum"></P></DIV>
+  </DIV>
+<!-- 图片切换 End -->
+  
+  <div class="is-wrapper">
+  <!--<div class="is-banner"></div>-->  
+  <div class="is-menu">
+  <span><img src="/media/images/public/menu_le.gif" width="4" height="65" /></span>
+    <dl class="ym-gl ym-clearfix">
+      <dt><a href="/news/">新闻资讯</a></dt>
+      <dd> <a href="/index.php?c=channel&col-1=520362eabfbdf12befb3cb91">水利要闻</a><a href="/index.php?c=channel&col-1=520362eabfbdf12befb3cba0">通知公告</a><a href="/index.php?c=channel&col-1=520362eabfbdf12befb3cb92">行业聚焦</a></dd>
+      <dt><a href="/xxgkweb/">信息公开</a></dt>
+	  
+     <dd> <a href="/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710afe">最近公开</a>
+	  <a href="/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710afc">机构设置</a>
+<a href="/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710b01">人事信息</a><br/>
+        </dd>
+		
+		
+      <dt><a href="/services/">公众服务</a></dt>
+      <dd><a href="/index.php?c=serviceswssb">网上查询</a><a href="/index.php?c=toApply" target="_blank">网上申报</a><a href="/index.php?c=interactscene" target="_blank">场景导航</a></dd>
+      <dt><a href="/interact/">互动交流</a></dt>
+      <dd class="is-last">
+        <a href="/index.php?c=interactmail&col-1=5209a612df85a717bc624836">政务咨询</a><a href="/index.php?c=interactlive">在线访谈</a><a href="/index.php?c=interactvote">调查征集</a></dd>
+    </dl>
+      <span class="is-ri"><img src="/media/images/public/menu_ri.gif" width="4" height="65" /></span>
 
-        <p style="text-align:center"><a href="http://bszs.conac.cn/sitename?method=show&id=069ECBCDE3CA7464E053022819AC07CE" target="_blank"><img width="45" src="/main/template/common/foot/1_03.png"></a></p>
-		<p><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1258399780'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s11.cnzz.com/z_stat.php%3Fid%3D1258399780' type='text/javascript'%3E%3C/script%3E"));</script>
-        </p>
-    </div>
+  </div>
+  <div class="is-sub ym-clearfix">
+    <ul>
+            <li class="is-date"><span><script type="text/javascript" src="/media/js/date.js"></script></span></li>
+      <li class="is-weath">
+        <iframe src="http://m.weather.com.cn/m/pn3/weather.htm?id=101220101T" width="250" height="20" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" allowtransparency="no"></iframe>
+      </li>
+            <li class="is-gjss"><a href="/index.php?c=search&m=searchHigh" target="_blank">[高级搜索]</a></li>
+      <li class="is-search">
+        <form method="GET" action="/index.php?c=search">
+          <input name="c" type="hidden" value="search" />
+          <input type="text" name="keywords" id="keywords" value="&nbsp;&nbsp;-站内搜索-" onClick="JavaScript:this.value=''" class="is-se" />
+          <div class="is-biaoti">
+          <select name="somewhere" style="width:80px;">
+			<option value="title">按标题</option>
+			<option value="body">按内容</option>
+            <option value="author">按来源</option>
+            <option value="copy_form">按作者</option>
+		  </select>
+          </div>
+          <input type="image" name="imageField" id="imageField" src="/media/images/public/btn_search.gif" onClick="show()"/>
+        </form>
+      </li>
+    </ul>
+  </div></div>
 </div>
-<!--foot end-->  </div><input type="hidden"  id="currentLoginUserLoginName"/> </body>
-</html>
+<div class="ym-wrapper is-wrapper">
+  <div class="is-main ym-clearfix"><!-- InstanceBeginEditable name="可编辑" -->
+<div class="ym-gl is-mainr">
+          <div class="is-border is-rddt">
+          <div class="is-tit ym-clearfix"> <span class="ym-gl">热点动态</span> <a href="/index.php?c=channel&col-1=520362eabfbdf12befb3cb91" class="ym-gr">更多>></a> </div>
+                    <div class="is-con">
+            <ul>
+			              <li><a href="/xxgkweb/detail/59fad9d9fd6f364c56000003.html" target="_blank" title="水利部淮委督查组检查江巷水库工程">水利部淮委督查组检查江巷水库工程</a></li>
+			              <li><a href="/xxgkweb/detail/59fad9acfd6f36f455000001.html" target="_blank" title="省防办召开全省洪涝灾情统计视频培训会议">省防办召开全省洪涝灾情统计视频培训会议</a></li>
+			              <li><a href="/xxgkweb/detail/59fad982fd6f364c56000002.html" target="_blank" title="阜阳市召开市级总河长第一次会议">阜阳市召开市级总河长第一次会议</a></li>
+			              <li><a href="/xxgkweb/detail/59fad95afd6f36f455000000.html" target="_blank" title="天长市全面完成水利工程汛后检查工作">天长市全面完成水利工程汛后检查工作</a></li>
+			              <li><a href="/xxgkweb/detail/59f82cf5fd6f36b447000000.html" target="_blank" title="水利部考核我厅文明单位创建工作">水利部考核我厅文明单位创建工作</a></li>
+			              <li><a href="/xxgkweb/detail/59f82cd1fd6f36a457000001.html" target="_blank" title="国务院南水北调办调研我省南水北调工程完工验收工作">国务院南水北调办调研我省南水北调工程完工验收</a></li>
+			              <li><a href="/xxgkweb/detail/59f82ca1fd6f36a457000000.html" target="_blank" title="六安市河长办机构编制获批">六安市河长办机构编制获批</a></li>
+			              <li><a href="/xxgkweb/detail/59f68cd1fd6f365c38000000.html" target="_blank" title="厅党组召开理论学习中心组学习（扩大）会议 ">厅党组召开理论学习中心组学习（扩大）会议 </a></li>
+			              <li><a href="/xxgkweb/detail/59f6eb3cfd6f364052000001.html" target="_blank" title="全省水利工程建设稽察专家培训班举办">全省水利工程建设稽察专家培训班举办</a></li>
+			            </ul>
+          </div>
+</div>
+<div class="is-border is-rddt is-mt">
+          <div class="is-tit ym-clearfix"> <span class="ym-gl">图片动态</span> <a href="/index.php?c=picture" class="ym-gr">更多>></a> </div>
+                    <div class="is-con2">
+            <ul>
+			              <li><a href="/content/detail/59e9b98bfd6f36f44c000000.html" target="_blank" title="省水利厅认真组织收听收看党的十九大开幕会"><img src="http://file.ahsl.gov.cn/20171020/201710201638521577_rtHnaKlA_338x224.jpg" width="171" height="115" alt="省水利厅认真组织收听收看党的十九大开幕会"/><div>省水利厅认真组织收听收看党的十</div></a></li>
+			              <li><a href="/content/detail/59cc8917fd6f36d040000004.html" target="_blank" title="省防指召开全体成员会议"><img src="http://file.ahsl.gov.cn/20170928/201709280904401509_2SRAoX88_600x360.jpg" width="171" height="115" alt="省防指召开全体成员会议"/><div>省防指召开全体成员会议</div></a></li>
+			              <li><a href="/content/detail/5988196bfd6f362833000001.html" target="_blank" title="省水利厅召开厅务扩大会议"><img src="http://file.ahsl.gov.cn/20170807/201708071145181360_PlKnwx4r_600x400.jpg" width="171" height="115" alt="省水利厅召开厅务扩大会议"/><div>省水利厅召开厅务扩大会议</div></a></li>
+			            </ul>
+          </div>
+</div>
+<!--<div class="is-vtop">安全监管</div>
+        <div class="is-border is-listmenus-list">
+        	<ul><li><a href="#">职业卫生</a></li>
+            <li><a href="#" class="active">行业监管</a></li>
+            <li><a href="#">专项整治</a></li>
+            <li><a href="#">教育培训</a></li>
+            <li><a href="#">危险化学品</a></li>
+            <li><a href="#">非煤矿山</a></li>
+            <li><a href="#">烟花爆竹</a></li>
+            </ul>
+        </div>-->
+</div>
+<div class="ym-gr is-border is-list-ri">
+    	<div class="is-location ym-clearfix">
+        <div class="ym-gl is-dqbt">水利要闻</div>
+        <div class="ym-gr is-dqwz">当前位置：<a href="/">网站首页</a> >> <a href="/news/">新闻资讯</a> >> <span>水利要闻</span></div>
+        </div>
+    <div class="is-list-box">
+      <ul>
+		        <li><a href="/xxgkweb/detail/56025ecefd6f363c1b000018.html" target="_blank" title="方卫星赴省临淮岗工程管理局检查指导工作">方卫星赴省临淮岗工程管理局检查指导工作</a><span>[2015-09-23]</span></li>
+		        <li><a href="/xxgkweb/detail/56025e84fd6f363c1b000017.html" target="_blank" title="全省淮河干流河道采砂管理培训班举办">全省淮河干流河道采砂管理培训班举办</a><span>[2015-09-23]</span></li>
+		        <li><a href="/xxgkweb/detail/56025e45fd6f363c1b000016.html" target="_blank" title="枞阳县推进小型农田水利重点县项目建设">枞阳县推进小型农田水利重点县项目建设</a><span>[2015-09-23]</span></li>
+		        <li><a href="/xxgkweb/detail/56010a11fd6f367c10000016.html" target="_blank" title="厅党组召开理论中心组学习（扩大）会议">厅党组召开理论中心组学习（扩大）会议</a><span>[2015-09-22]</span></li>
+		        <li><a href="/xxgkweb/detail/560109befd6f367c10000015.html" target="_blank" title="铜陵市积极创新小型水利工程管理模式">铜陵市积极创新小型水利工程管理模式</a><span>[2015-09-22]</span></li>
+		<li class="is-list-line"></li>        <li><a href="/xxgkweb/detail/56010980fd6f367c10000014.html" target="_blank" title="我省长江崩岸应急治理工程初步设计通过审查">我省长江崩岸应急治理工程初步设计通过审查</a><span>[2015-09-22]</span></li>
+		        <li><a href="/xxgkweb/detail/56010936fd6f367c10000013.html" target="_blank" title="全省水文系统综合文秘培训班举办">全省水文系统综合文秘培训班举办</a><span>[2015-09-22]</span></li>
+		        <li><a href="/xxgkweb/detail/55ffc681fd6f36c811000007.html" target="_blank" title="水利部太湖局督导月潭水库工程建设">水利部太湖局督导月潭水库工程建设</a><span>[2015-09-21]</span></li>
+		        <li><a href="/xxgkweb/detail/55ffc637fd6f36c811000006.html" target="_blank" title="张效武赴黄山市检查指导重点水利工程建设">张效武赴黄山市检查指导重点水利工程建设</a><span>[2015-09-21]</span></li>
+		        <li><a href="/xxgkweb/detail/55ffc5e3fd6f36c811000005.html" target="_blank" title="徐业平赴枞阳江堤检查指导工作">徐业平赴枞阳江堤检查指导工作</a><span>[2015-09-21]</span></li>
+		<li class="is-list-line"></li>        <li><a href="/xxgkweb/detail/55ffc599fd6f36c811000004.html" target="_blank" title="淮北市水务局推进市级配水工程建设">淮北市水务局推进市级配水工程建设</a><span>[2015-09-21]</span></li>
+		        <li><a href="/xxgkweb/detail/55fbd40efd6f363c1b000001.html" target="_blank" title="全省国家水土保持重点工程推进会召开">全省国家水土保持重点工程推进会召开</a><span>[2015-09-18]</span></li>
+		        <li><a href="/xxgkweb/detail/55fbd3ddfd6f363c1b000000.html" target="_blank" title="我厅组织参观安徽军民抗战史实展">我厅组织参观安徽军民抗战史实展</a><span>[2015-09-18]</span></li>
+		        <li><a href="/xxgkweb/detail/55fbd3b1fd6f36581a000049.html" target="_blank" title="明光市加强河道采砂管理">明光市加强河道采砂管理</a><span>[2015-09-18]</span></li>
+		        <li><a href="/xxgkweb/detail/55fa81defd6f36d819000036.html" target="_blank" title="徐业平赴省机电排灌总站检查指导工作">徐业平赴省机电排灌总站检查指导工作</a><span>[2015-09-17]</span></li>
+		<li class="is-list-line"></li>        <li><a href="/xxgkweb/detail/55fa819efd6f36d819000035.html" target="_blank" title="南水北调工程运行管理问题责任追究办法宣贯会议召开">南水北调工程运行管理问题责任追究办法宣贯会议召开</a><span>[2015-09-17]</span></li>
+		        <li><a href="/xxgkweb/detail/55fa8159fd6f36d819000034.html" target="_blank" title="省茨淮新河工程管理局加强灌区在建工程安全生产管理">省茨淮新河工程管理局加强灌区在建工程安全生产管理</a><span>[2015-09-17]</span></li>
+		        <li><a href="/xxgkweb/detail/55fa8104fd6f36d819000033.html" target="_blank" title="省驷马山引江工程管理处开展文秘宣传工作培训">省驷马山引江工程管理处开展文秘宣传工作培训</a><span>[2015-09-17]</span></li>
+		        <li><a href="/xxgkweb/detail/55f8e3cffd6f36581a00003c.html" target="_blank" title="纪冰赴省龙河口水库管理处检查指导工作">纪冰赴省龙河口水库管理处检查指导工作</a><span>[2015-09-16]</span></li>
+		        <li><a href="/xxgkweb/detail/55f8e38ffd6f36581a00003b.html" target="_blank" title="水利部淮委督查我省淮河流域重大水利工程建设">水利部淮委督查我省淮河流域重大水利工程建设</a><span>[2015-09-16]</span></li>
+		<li class="is-list-line"></li>      </ul>	  
+    </div>
+	<div id="page_list"><span class='currentpage'>91 / 496</span><a href='/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710afe&page=1' ><span class='page'>首页</span></a> <span>....</span><a href='/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710afe&page=89'><span class='page'>89</span></a><a href='/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710afe&page=90'><span class='page'>90</span></a><span class='currentpage'>91</span><a href='/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710afe&page=92'><span class='page'>92</span></a><a href='/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710afe&page=93'><span class='page'>93</span></a><span>....</span> <a href='/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710afe&page=496'><span class='page'>尾页</span></a> </div> 
+    </div>
+    <div class="is-clear"></div>
+
+	<div class="go">
+	<a title="返回顶部" class="top" href="#gotop"></a>
+	<a title="如果您有意见，请反馈给我们！" class="feedback" href="/index.php?c=interactmail&col-1=5209a1b3df85a717bc624832"></a>
+	<a title="返回底部" class="bottom" href="#gobottom"></a>
+	</div>
+	<a name="gobottom"></a>
+
+<!-- InstanceEndEditable --> </div>
+</div>
+<div class="ym-wrapper is-wrapper">
+  <div class="is-foot" style=" position:relative">
+    <div class="is-footlink"><a href="http://www.cnzz.com/stat/website.php?web_id=2335742" target="_blank">访问量统计</a> | <a href="/index.php?c=channel&col-1=520f1abdd49d864706000004">联系我们</a> | <a href="/index.php?c=interacterror" target="_blank">页面纠错</a> | <a href="/index.php?c=channel&col-1=520f1adcd49d863306000005">网站使用帮助</a></div>
+    <p>主办单位：安徽省水利厅&nbsp;&nbsp;<!--承办单位：安徽省水利信息中心&nbsp;&nbsp;-->备案序号：皖ICP备05011837号<br />
+       　管理员信箱：slxxw#ahsl.gov.cn (发信时请将"#"号改为"@")&nbsp;&nbsp;联系电话：0551－62128114&nbsp;&nbsp;地址：合肥市九华山路48号</p>
+    <div class="is-footaq ym-clearfix"><a href="http://www.cyberpolice.cn/wfjb/" class="is-wl110" target="_blank">网络110</a><a href="http://net.china.com.cn/" class="is-xxjb" target="_blank">不良信息举报</a><a href="http://www.isc.org.cn/" class="is-hlxh" target="_blank">中国互联网协会</a>
+	</div>
+	<div>
+	<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253965163'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1253965163%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+	</div>
+	<div style=" position:absolute;right:50px; top:50px;"><script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/13/000/0000/60429808/CA130000000604298080003.js' type='text/javascript'%3E%3C/script%3E"));</script></div>
+  </div>
+</div>
+</body>
+<!-- InstanceEnd --></html>
