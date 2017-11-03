@@ -1,40 +1,40 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html>
  <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>水利要闻</title>
-<input type='hidden' name="页面生成时间" value="2017-11-02 09:36:58">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>四川省水利厅召开全省加快灾后水利薄弱环节建设新出现小型病险水库除险加固工作会议</title>
+<input type='hidden' name="页面生成时间" value="2017-10-26 14:04:34">
 <input type='hidden' name="缓存清理时间" value="2017-10-24 09:35:02">
-<meta name="keywords" content=" 四川水利网 四川水利厅 四川省水利厅 水利厅 水利网 " />
-<meta name="description" content=" 初始化频道：水利要闻 四川省水利厅 " />
+<meta name="keywords" content="  四川水利网 四川水利厅 四川省水利厅 水利厅 水利网 " />
+<meta name="description" content=" 四川省水利厅召开全省加快灾后水利薄弱环节建设新出现小型病险水库除险加固工作会议;四川省水利厅召开全省加快灾后水利薄弱环节建设新出现小型病险水库除险加固工作会议;详细信息 四川省水利厅 " />
  <meta name="baidu-site-verification" content="heJKdF4qoQ" /> <link rel="stylesheet" type="text/css" media="screen" href="/main/uiFramework/huilan-jquery-ui/css/huilan-jquery-ui.css" />
 <script type="text/javascript" src="/main/uiFramework/huilan-jquery-ui/js/huilan-jquery-ui.js?self=true&skin=default"></script>
  </head>
  <body>
   <link rel="stylesheet" type="text/css" media="screen" href="/main/template/main.css" /> 
-  <link rel="stylesheet" type="text/css" media="screen" href="/main/template/page/list/skin.css" /> 
+  <link rel="stylesheet" type="text/css" media="screen" href="/main/template/page/xiangxi/skin.css" /> 
   <script type="text/javascript" src="/main/template/main.js"></script>
 <input id="contextPath" value="/eportal" type="hidden"/>
-<input id="eprotalCurrentPageId" value="1405" type="hidden"/>
+<input id="eprotalCurrentPageId" value="1192" type="hidden"/>
 <input id="eprotalCurrentSiteId" value="1183" type="hidden"/>
-<input id="eprotalCurrentArticleKey"  value=""  type="hidden"/>
-<input id="eprotalCurrentColumnId"  value=""  type="hidden"/>
+<input id="eprotalCurrentArticleKey"  value="96808"  type="hidden"/>
+<input id="eprotalCurrentColumnId"  value="1405"  type="hidden"/>
 <input id="isStaticRequest" value="yes" type="hidden"/>
 <input id="isOpenStaticPageList" value="no" type="hidden"/>
 <input id="defaultPublishPage" value="10" type="hidden"/>
 <input type='hidden' id='eportalappPortletId' value="3">
 <input type='hidden' id='epsPortletId' value="1">
 <script type="text/javascript" src="/main/uiFramework/js/counting/chanelCounting.js"></script>
-<input type="hidden" id="ckEditorUploadFileUrl" value="/eportal/ui?moduleId=2&pageId=1405&struts.portlet.action=/portlet/uploadFile.action&isCkEditor=true"/>
-<input type="hidden" id="sDtoLoginUrl" value="moduleId=3&pageId=1405&struts.portlet.action=/app/member!sDtoLogin.action"/>
-<input type="hidden" id="memberLoginUrl" value="/eportal/ui?moduleId=3&pageId=1405&struts.portlet.action=/app/member!toLogin.action"/>
+<input type="hidden" id="ckEditorUploadFileUrl" value="/eportal/ui?moduleId=2&pageId=1192&struts.portlet.action=/portlet/uploadFile.action&isCkEditor=true"/>
+<input type="hidden" id="sDtoLoginUrl" value="moduleId=3&pageId=1192&struts.portlet.action=/app/member!sDtoLogin.action"/>
+<input type="hidden" id="memberLoginUrl" value="/eportal/ui?moduleId=3&pageId=1192&struts.portlet.action=/app/member!toLogin.action"/>
 <input type="hidden" id="currentLoginMemberId"  value="" />
 <input type="hidden" id="currentLoginMemberName"  value="" />
 <input type="hidden" id="behaviourAnalysisSiteId"  value="" /> 
 <input type="hidden" id="isOpenArticleScan" value="no"/>
-<input type="hidden" id="voteUrl" value="/eportal/ui?moduleId=1&pageId=1405&struts.portlet.action=/portlet/article!vote.action"/>
-<input type="hidden" id="getVoteCount" value="/eportal/ui?moduleId=1&pageId=1405&struts.portlet.action=/portlet/article!getVoteCount.action"/>
-<input type="hidden" id="getHotWordRelativeArticle" value="/eportal/ui?moduleId=1&pageId=1405&struts.portlet.action=/portlet/article!getHotWordRelativeArticle.action&staticRequest=yes"/>
-<input type="hidden" id="deleteArticleUrl" value="/eportal/ui?moduleId=1&pageId=1405&struts.portlet.action=/portlet/article!deleteArticle.action"/>
-<input type="hidden" id="toSnsLoginUrl" value="/eportal/ui?moduleId=3&pageId=1405&struts.portlet.action=/app/member-sns-login!toSnsLogin.action"/>
+<input type="hidden" id="voteUrl" value="/eportal/ui?moduleId=1&pageId=1192&struts.portlet.action=/portlet/article!vote.action"/>
+<input type="hidden" id="getVoteCount" value="/eportal/ui?moduleId=1&pageId=1192&struts.portlet.action=/portlet/article!getVoteCount.action"/>
+<input type="hidden" id="getHotWordRelativeArticle" value="/eportal/ui?moduleId=1&pageId=1192&struts.portlet.action=/portlet/article!getHotWordRelativeArticle.action&staticRequest=yes"/>
+<input type="hidden" id="deleteArticleUrl" value="/eportal/ui?moduleId=1&pageId=1192&struts.portlet.action=/portlet/article!deleteArticle.action"/>
+<input type="hidden" id="toSnsLoginUrl" value="/eportal/ui?moduleId=3&pageId=1192&struts.portlet.action=/app/member-sns-login!toSnsLogin.action"/>
 <input type="hidden" id="portalLastRequestUrl"  value="" />  <div>
     <style type="text/css">
         /*top*/
@@ -189,138 +189,79 @@
     });
 </script>  </div> 
   <!--content--> 
-  <div class="position">
-    当前位置：<span><a class='SkinObject' href='/main/index/index.html' target='_parent'>首页</a> > <a class='SkinObject' href='/main/slzx/slyw/index.html' target='_parent'>水利资讯</a> > <a class='SkinObject' href='/main/slzx/slyw/index.html' target='_parent'>水利要闻</a></span> 
-  </div> 
-  <div style="background-color:#fff;overflow:hidden; width:1000px; margin:0 auto;" name="左" id="list_l" runat="server" class=" column">
-     <link rel="stylesheet" type="text/css" media="screen" href="/main/template/module/list_mod/container.css" /> 
-<div class="slt_mod1 portlet" id="d30be31455b44268abfd2bca6f42fce7" style="$portletStyle"> 
- <div> 
-  <div align="left" class="portlet-header"> 
-   <span id="menu"></span> 
-   <div id="submenud30be31455b44268abfd2bca6f42fce7" class="shadow dn"> 
-    <ul class="float_list_ul">
-          </ul> 
-   </div> 
+  <div class="bodybg"> 
+   <div class="xiangxi bgstyle column" id="xiangxi" name="信息" runat="server">
+      <div class="portlet" id="6ded423d1f434e14bbd0bd4aa2a37dfb"> 
+ <div align="left" class="portlet-header"> 
+  <span id="menu">
+        </span> 
+  <div id="submenu6ded423d1f434e14bbd0bd4aa2a37dfb" class="shadow dn"> 
+   <ul class="float_list_ul">
+        </ul> 
   </div> 
  </div> 
- <div style="position:relative;"> 
-  <div class="mod1_tit"> 
-   <span>水利要闻</span> 
-  </div> 
-  <div class="mod1_con">
-    
+ <div>
+   
 
 
-<table class="cbf_list" border="0" cellpadding="0" cellspacing="0" align="center"> 
+<div class="position">
+  您当前所在位置： 
+ <span><a class="SkinObject" href="/main/index/index.html" target="_parent">首页</a>&nbsp;&gt;&nbsp;<a class="SkinObject" href="/main/slzx/slyw/index.html" target="_parent">水利资讯</a>&nbsp;&gt;&nbsp;<a class="SkinObject" href="/main/slzx/slyw/index.html" target="_parent">水利要闻</a></span> 
+</div> 
+<table class="xilan_cont" align="center" border="0" cellpadding="0" cellspacing="0" width="1000"> 
  <tbody> 
   <tr> 
-   <td>
-    <table cellspacing="0" cellpadding="0" border="0" class="" style="width:100%;border-collapse:collapse;">
-     <tbody>
-      <tr class="">
-       <td>
-        <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
-         <tbody> 
-          <tr> 
-           <td class="tit_list"><a href="/main/slzx/slyw/95273/index.html" onclick="void(0)" target="_blank" title="">王铭晖强调部署省级防汛减灾和地质灾害防范督导工作</a></td> 
-          </tr> 
-          <tr> 
-           <td class="sum_list">&nbsp;&nbsp;&nbsp; 9月21日下午，省委常委、省委秘书长、副省长王铭晖主持召开省级防汛减灾和地质灾害防范工作督导组汇报会，听取省级督导组近期工作汇报，并就做好下阶段工作进行...</td> 
-          </tr> 
-          <tr> 
-           <td class="date_list"><i style="color:#ff9412;">点击<span articlehits="yes" articlekey="95273"></span>次</i>&nbsp;&nbsp;2017/09/22&nbsp;&nbsp;省防办厅信息中心</td> 
-          </tr> 
-         </tbody> 
-        </table></td>
-      </tr>
-      <tr class="">
-       <td>
-        <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
-         <tbody> 
-          <tr> 
-           <td class="tit_list"><a href="/main/slzx/slyw/95300/index.html" onclick="void(0)" target="_blank" title="">省政府副省长、雅安市委书记叶壮调研南郊水厂引水工程、铜头引水工程和九龙水库建...</a></td> 
-          </tr> 
-          <tr> 
-           <td class="sum_list">&nbsp;&nbsp;&nbsp; 9月19日上午，省政府副省长、雅安市委书记叶壮现场调研南郊水厂引水工程、铜头引水工程和九龙水库工程建设工作。 &nbsp;&nbsp;&nbsp; 叶壮一行检查了南郊水厂引水工程周公...</td> 
-          </tr> 
-          <tr> 
-           <td class="date_list"><i style="color:#ff9412;">点击<span articlehits="yes" articlekey="95300"></span>次</i>&nbsp;&nbsp;2017/09/21&nbsp;&nbsp;雅安市水务局</td> 
-          </tr> 
-         </tbody> 
-        </table></td>
-      </tr>
-      <tr class="">
-       <td>
-        <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
-         <tbody> 
-          <tr> 
-           <td class="tit_list"><a href="http://www.sc.gov.cn/10462/10605/10616/10673/2017/9/7/10433007.shtml" onclick="recordLinkArticleHits('95233')" target="_blank" title="">王宁在攀枝花调研时强调：坚持问题导向 全面落实河长制各项工作任务</a></td> 
-          </tr> 
-          <tr> 
-           <td class="sum_list"></td> 
-          </tr> 
-          <tr> 
-           <td class="date_list"><i style="color:#ff9412;">点击<span articlehits="yes" articlekey="95233"></span>次</i>&nbsp;&nbsp;2017/09/21&nbsp;&nbsp;</td> 
-          </tr> 
-         </tbody> 
-        </table></td>
-      </tr>
-      <tr class="">
-       <td>
-        <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
-         <tbody> 
-          <tr> 
-           <td class="tit_list"><a href="/main/slzx/slyw/95045/index.html" onclick="void(0)" target="_blank" title="">胡云赴甘孜州督导石渠县脱贫攻坚并调研甘孜州河长制、水利扶贫、防汛减灾工作</a></td> 
-          </tr> 
-          <tr> 
-           <td class="sum_list">&nbsp;&nbsp;&nbsp; 9月12至16日，按照省委、省政府统一安排部署，水利厅厅长、省防汛抗旱指挥部常务副指挥长、省河长制办公室主任胡云率队赴甘孜州石渠县开展脱贫攻坚工作专项督...</td> 
-          </tr> 
-          <tr> 
-           <td class="date_list"><i style="color:#ff9412;">点击<span articlehits="yes" articlekey="95045"></span>次</i>&nbsp;&nbsp;2017/09/18&nbsp;&nbsp;厅办公室</td> 
-          </tr> 
-         </tbody> 
-        </table></td>
-      </tr>
-      <tr class="">
-       <td>
-        <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
-         <tbody> 
-          <tr> 
-           <td class="tit_list"><a href="/main/slzx/slyw/95032/index.html" onclick="void(0)" target="_blank" title="">水利厅专家服务团迅速投身德格技术援助工作</a></td> 
-          </tr> 
-          <tr> 
-           <td class="sum_list">&nbsp; &nbsp; 8月下旬，四川省水利厅专家服务团5名专家到德格县后，立即投身全县水务技术指导和传帮带，重点抓好以下工作：一是熟悉德格县水政执法工作，行权平台行政权力清理...</td> 
-          </tr> 
-          <tr> 
-           <td class="date_list"><i style="color:#ff9412;">点击<span articlehits="yes" articlekey="95032"></span>次</i>&nbsp;&nbsp;2017/09/15&nbsp;&nbsp;厅人事处</td> 
-          </tr> 
-         </tbody> 
-        </table></td>
-      </tr>
-     </tbody>
-    </table></td> 
-  </tr> 
-  <tr> 
-   <td height="15"></td> 
-  </tr> 
-  <tr> 
    <td> 
-    <div class="list_paging"> 
-     <table border="0" cellpadding="0" cellspacing="0" width="100%"> 
-      <tbody> 
-       <tr> 
-        <td align="notset" nowrap="true" valign="bottom"> <a style="cursor:pointer" onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-1.html')" tagname="/main/slzx/slyw/d30be314-1.html" class="pagingbtn">首页</a> <span style="width:5px;display:inline-block;"></span> <a style="cursor:pointer" onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-6.html')" tagname="/main/slzx/slyw/d30be314-6.html" class="pagingNormal">上一页</a> <span style="width:5px;display:inline-block;"></span> <a onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-1.html')" class="pagingNormal">1</a><span style="width:5px;display:inline-block;"></span><a onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-2.html')" class="pagingNormal">2</a><span style="width:5px;display:inline-block;"></span><a onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-3.html')" class="pagingNormal">3</a><span style="width:5px;display:inline-block;"></span><a onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-4.html')" class="pagingNormal">4</a><span style="width:5px;display:inline-block;"></span><a onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-5.html')" class="pagingNormal">5</a><span style="width:5px;display:inline-block;"></span><a onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-6.html')" class="pagingNormal">6</a><span style="width:5px;display:inline-block;"></span><font class="NormalRed">7</font><span style="width:5px;display:inline-block;"></span><a onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-8.html')" class="pagingNormal">8</a><span style="width:5px;display:inline-block;"></span><a onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-9.html')" class="pagingNormal">9</a><span style="width:5px;display:inline-block;"></span><a onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-10.html')" class="pagingNormal">10</a><span style="width:5px;display:inline-block;"></span><a onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-11.html')" class="pagingNormal">...</a><span style="width:5px;display:inline-block;"></span> <span style="width:5px;display:inline-block;"></span> <a style="cursor:pointer" onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-8.html')" tagname="/main/slzx/slyw/d30be314-8.html" class="pagingNormal">下一页</a> <span style="width:5px;display:inline-block;"></span> <a style="cursor:pointer" onclick="queryArticleByCondition(this,'/main/slzx/slyw/d30be314-63.html')" tagname="/main/slzx/slyw/d30be314-63.html" class="pagingbtn">尾页</a> <span style="width:5px;display:inline-block;"></span> </td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div><input type="hidden" name="article_paging_list_hidden" moduleid="d30be31455b44268abfd2bca6f42fce7" modulekey="slywd30be31455b44268abfd2bca6f42fce7" totalpage="63" /></td> 
+    <table class="xilan_tab" align="center" cellpadding="0" cellspacing="0" width="96%"> 
+     <tbody> 
+      <tr> 
+       <td align="center"> <h1 id="jiuctit">四川省水利厅召开全省加快灾后水利薄弱环节建设新出现小型病险水库除险加固工作会议</h1> 
+        <hr size="1" /> </td> 
+      </tr> 
+      <tr> 
+       <td style="height: 30px;" align="center">作者：　来源：四川省农田水利局　时间：2017年10月26日 点击率：<span articlecounts="yes"></span>【<a href="javascript:print()">打印</a>】【<a href="javascript:close()">关闭</a>】 </td> 
+      </tr> 
+      <tr> 
+       <td id="xilan_cont" class="xilan_all"><p><span style="font-family: 宋体;"><span style="font-size: 15px;">&nbsp;&nbsp;&nbsp; 为顺利推进全省列入《加快灾后水利薄弱环节建设实施方案》的新出现小型病险水库除险加固工作，特别是加快2017年下达项目的实施，保证目标任务如期圆满完成，强化责任和措施落实，省水利厅于2017年10月23-24日在成都召开了“四川省加快灾后水利薄弱环节建设新出现小型病险水库除险加固工作培训会”，对全省新出现小型病险水库除险加固工作进行安排部署。省水利厅党组成员、副厅长李勇蔺同志出席会议并讲话。<br />&nbsp;&nbsp;&nbsp; 李勇蔺副厅长在讲话中，总结全省历次小型病险水库除险加固工作取得成绩，指出了当前小型水库运行安全管理等方面存在的问题，特别是除险加固工作面临的艰巨任务。他要求市、县水务部门：一要高度重视，提高认识，小型水库除险加固不同于一般水利工程项目，要充分认识除险加固对部门工作特别是安全管理的重要性。要理清问题，以问题为导向，狠抓措施落实。切实改进业务部门自身工作，主动衔接财政等各有关部门，主动向党政领导汇报，着力解决资金、财评等建设中容易出现的问题，加快推进工作。二要坚持改革创新，按照水利部要求，处理好水利工程所有权、管理权和使用权的关系，创新管理模式。三要以加强依法管水为手段，按照《水法》和修订后的《四川省水利工程管理条例》等要求，划定水利工程管理和保护范围，加强工程管理。四要通过现代化管理手段，提高管理水平。五要充分发挥市、州管理积极性，强化完善监督检查和责任追究制度。六要狠抓小型水库运行安全管理工作责任落实，确保工程安全、人员安全和水质安全，充分发挥工程效益。七要切实抓好小型水利工程项目实施过程中的廉政问题。<br />省农水局有关负责人就具体工作进行了讲解说明。<br />&nbsp;&nbsp;&nbsp; 此次培训会议召开，标志着我省“十三五”期间列入规划的2172座新出现小型病险水库除险加固工作正式启动。</span></span></p></td> 
+      </tr> 
+      <tr> 
+       <td> 
+        <div style="width:100%; font-family: Tahoma,Arial,Helvetica;font-size: 12px;font-weight: normal;"> 
+         <table cellspacing="0" cellpadding="0" border="0" width="100%"> 
+          <tbody> 
+           <tr> 
+            <td nowrap="true" align="center" valign="bottom" style="width:60%;"> <span style="width:5px;display:inline-block;"></span> <span style="width:5px;display:inline-block;"></span> <span style="width:5px;display:inline-block;"></span> <input type="hidden" id="articleDetailPagingTotalCount" value="0" /> </td> 
+           </tr> 
+          </tbody> 
+         </table> 
+        </div></td> 
+      </tr> 
+      <tr> 
+       <td class="xilan_icon"><span>上一篇：</span><span previousarticle="yes" articlekey="96808" columnid="1405"></span></td> 
+      </tr> 
+      <tr> 
+       <td class="xilan_icon"><span>下一篇：</span><span nextarticle="yes" articlekey="96808" columnid="1405"></span></td> 
+      </tr> 
+      <tr> 
+       <td style="height: 15px;"> </td> 
+      </tr> 
+      <tr> 
+       <td style="border-top:1px dashed #ccc;padding-bottom:10px;"></td> 
+      </tr> 
+      <tr> 
+       <td></td> 
+      </tr> 
+      <tr> 
+       <td style="height: 15px;"> </td> 
+      </tr> 
+     </tbody> 
+    </table> </td> 
   </tr> 
  </tbody> 
-</table> 
-  </div> 
+</table><input type='hidden' id='articleKey' value=96808><script type=text/javascript src='/main/uiFramework/js/counting/articleCounting.js'></script><script type=text/javascript src='/main/uiFramework/js/counting/articleCountingByRate.js'></script> 
  </div> 
-</div>   </div> 
+</div>    </div> 
+  </div> 
   <!--content end--> 
   <div>
     <style type="text/css">

@@ -79,19 +79,41 @@ key_attr = "href"
 #            url = nextpage_url_list[0]+str(i)+nextpage_url_list[1]
 #            print url
 
-key_url = "http://www.scwater.gov.cn/main/slzx/slyw/d30be314-7.html"
-title_tag_selector = "tr>td>table>tbody>tr>td.tit_list>a"
-title_attr = "href"
+#key_url = "http://www.scwater.gov.cn/main/slzx/slyw/d30be314-7.html"
+#title_tag_selector = "tr>td>table>tbody>tr>td.tit_list>a"
+#title_attr = "href"
+#
+#req =urllib2.Request(key_url)
+#req.add_header("User-Agent", random_header)
+#req.add_header("GET",key_url)
+#content=urllib2.urlopen(req).read()
+#f = open('temp.txt','w+')
+#f.write(content)
+#f.close()
+#from pyquery import PyQuery
+#p = PyQuery(content)
+#for each in p(title_tag_selector).items():
+#    exec "url = each.attr."+title_attr
 
-req =urllib2.Request(key_url)
+
+title_url = "http://www.scwater.gov.cn/main/slzx/slyw/96808/index.html"
+content_tag_selector = "tr>td#xilan_cont.xilan_all>p"
+publish_time_name = "时间"
+publish_time_tag_selector = "table.xilan_tab>tbody>tr>td"
+
+
+req =urllib2.Request(title_url)
 req.add_header("User-Agent", random_header)
-req.add_header("GET",key_url)
+req.add_header("GET",title_url)
 content=urllib2.urlopen(req).read()
 f = open('temp.txt','w+')
 f.write(content)
 f.close()
 from pyquery import PyQuery
 p = PyQuery(content)
-for each in p(title_tag_selector).items():
-    exec "url = each.attr."+title_attr
-    print url
+for each in p(content_tag_selector).items():
+    print(each.text())
+for each in p(publish_time_tag_selector).items():
+    if str(each.text().decode('utf-8')).find(publish_time_name) is not -1:
+        print(each.text())
+    
