@@ -14,11 +14,11 @@ href
 
 100
 
-td.tit_list>a
+div.is-list-box>ul>li>a
 
 href
 
-div.is-list-box>ul>li>a
+div.is-content-detail#zoom>p
 
 发布时间
 

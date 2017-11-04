@@ -8,7 +8,7 @@ Created on Thu Nov  2 19:27:29 2017
 
 import urllib2,random,sys,re,time
 reload(sys)
-sys.setdefaultencoding('utf8')
+sys.setdefaultencoding('utf-8')
 
 """
 此函数用于抓取返回403禁止访问的网页
@@ -96,8 +96,8 @@ key_attr = "href"
 #    exec "url = each.attr."+title_attr
 
 
-title_url = "http://www.ahsl.gov.cn/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710afe&page=91"
-content_tag_selector = "div.is-list-box>ul>li>a"
+title_url = "http://www.ahsl.gov.cn/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710afe"
+content_tag_selector = "td.tit_list>a"
 publish_time_name = "发布时间"
 publish_time_tag_selector = "div.is-border is-content-main>div.is-size"
 
@@ -111,15 +111,17 @@ f.write(content)
 f.close()
 from pyquery import PyQuery
 p = PyQuery(content)
-content = ''
-for each in p(content_tag_selector).items():
+#content = ''
+#for each in p(content_tag_selector).items():
 #    content += each.text()
-    print(each.text())
+#    print(each.text())
 #publish_time = ''
 #for each in p(publish_time_tag_selector).items():
 #    if str(each.text().decode('utf-8')).find(publish_time_name) is not -1:
 #        publish_time = each.text()
 #print content,publish_time
+for each in p(content_tag_selector):
+    print each.attr.href
         
         
         
