@@ -1,0 +1,7 @@
+*** Enabling and starting zerotier-one service...
+Synchronizing state of zerotier-one.service with SysV service script with /lib/systemd/systemd-sysv-install.
+Executing: /lib/systemd/systemd-sysv-install enable zerotier-one
+
+*** Waiting for identity generation...
+
+*** Success! You are ZeroTier address [ a1a8a24d64 ].

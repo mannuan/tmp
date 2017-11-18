@@ -201,29 +201,29 @@ target:'rightFrame'
         </div>
     <div class="is-list-box">
       <ul>
-		        <li><a href="/xxgkweb/detail/59fad9d9fd6f364c56000003.html" target="_blank" title="水利部淮委督查组检查江巷水库工程">水利部淮委督查组检查江巷水库工程</a><span>[2017-11-02]</span></li>
-		        <li><a href="/xxgkweb/detail/59fad9acfd6f36f455000001.html" target="_blank" title="省防办召开全省洪涝灾情统计视频培训会议">省防办召开全省洪涝灾情统计视频培训会议</a><span>[2017-11-02]</span></li>
-		        <li><a href="/xxgkweb/detail/59fad982fd6f364c56000002.html" target="_blank" title="阜阳市召开市级总河长第一次会议">阜阳市召开市级总河长第一次会议</a><span>[2017-11-02]</span></li>
-		        <li><a href="/xxgkweb/detail/59fad95afd6f36f455000000.html" target="_blank" title="天长市全面完成水利工程汛后检查工作">天长市全面完成水利工程汛后检查工作</a><span>[2017-11-02]</span></li>
-		        <li><a href="/xxgkweb/detail/59f82cf5fd6f36b447000000.html" target="_blank" title="水利部考核我厅文明单位创建工作">水利部考核我厅文明单位创建工作</a><span>[2017-10-31]</span></li>
-		<li class="is-list-line"></li>        <li><a href="/xxgkweb/detail/59f82cd1fd6f36a457000001.html" target="_blank" title="国务院南水北调办调研我省南水北调工程完工验收工作">国务院南水北调办调研我省南水北调工程完工验收工作</a><span>[2017-10-31]</span></li>
-		        <li><a href="/xxgkweb/detail/59f82ca1fd6f36a457000000.html" target="_blank" title="六安市河长办机构编制获批">六安市河长办机构编制获批</a><span>[2017-10-31]</span></li>
-		        <li><a href="/xxgkweb/detail/59f68cd1fd6f365c38000000.html" target="_blank" title="厅党组召开理论学习中心组学习（扩大）会议 ">厅党组召开理论学习中心组学习（扩大）会议 </a><span>[2017-10-30]</span></li>
-		        <li><a href="/xxgkweb/detail/59f6eb3cfd6f364052000001.html" target="_blank" title="全省水利工程建设稽察专家培训班举办">全省水利工程建设稽察专家培训班举办</a><span>[2017-10-30]</span></li>
-		        <li><a href="/xxgkweb/detail/59f6eb19fd6f361c4c000003.html" target="_blank" title="马鞍山市召开市级河长工作联席会议">马鞍山市召开市级河长工作联席会议</a><span>[2017-10-30]</span></li>
-		<li class="is-list-line"></li>        <li><a href="/xxgkweb/detail/59f6eaeffd6f364052000000.html" target="_blank" title="芜湖市召开河长制工作专题会议">芜湖市召开河长制工作专题会议</a><span>[2017-10-30]</span></li>
-		        <li><a href="/xxgkweb/detail/59f6eac6fd6f361c4c000002.html" target="_blank" title="省水文局部署安全生产工作">省水文局部署安全生产工作</a><span>[2017-10-30]</span></li>
-		        <li><a href="/xxgkweb/detail/59f30262fd6f36844a000002.html" target="_blank" title="全国水利工程档案管理工作培训班在蚌埠举办">全国水利工程档案管理工作培训班在蚌埠举办</a><span>[2017-10-27]</span></li>
-		        <li><a href="/xxgkweb/detail/59f27cb0fd6f36503a000002.html" target="_blank" title="方志宏到厅规划计划处党支部讲党课">方志宏到厅规划计划处党支部讲党课</a><span>[2017-10-27]</span></li>
-		        <li><a href="/xxgkweb/detail/59f18257fd6f36fc4c000000.html" target="_blank" title="省水利厅“阳光老人”评选活动圆满收官">省水利厅“阳光老人”评选活动圆满收官</a><span>[2017-10-26]</span></li>
-		<li class="is-list-line"></li>        <li><a href="/xxgkweb/detail/59f05821fd6f36784a000003.html" target="_blank" title="全省水利工程质量监督培训班举办">全省水利工程质量监督培训班举办</a><span>[2017-10-25]</span></li>
-		        <li><a href="/xxgkweb/detail/59f057f5fd6f369852000000.html" target="_blank" title="省水利厅督查长江河道采砂管理工作">省水利厅督查长江河道采砂管理工作</a><span>[2017-10-25]</span></li>
-		        <li><a href="/xxgkweb/detail/59f057cafd6f36784a000002.html" target="_blank" title="金寨县2016年小农水项目县建设成效明显">金寨县2016年小农水项目县建设成效明显</a><span>[2017-10-25]</span></li>
-		        <li><a href="/xxgkweb/detail/59f050c3fd6f36d839000000.html" target="_blank" title="砥砺奋进的五年:机电排灌工作综述">砥砺奋进的五年:机电排灌工作综述</a><span>[2017-10-25]</span></li>
-		        <li><a href="/xxgkweb/detail/59ef08d0fd6f366051000004.html" target="_blank" title="厅党组召开理论学习中心组学习（扩大）会议">厅党组召开理论学习中心组学习（扩大）会议</a><span>[2017-10-24]</span></li>
+		        <li><a href="/xxgkweb/detail/56025ecefd6f363c1b000018.html" target="_blank" title="方卫星赴省临淮岗工程管理局检查指导工作">方卫星赴省临淮岗工程管理局检查指导工作</a><span>[2015-09-23]</span></li>
+		        <li><a href="/xxgkweb/detail/56025e84fd6f363c1b000017.html" target="_blank" title="全省淮河干流河道采砂管理培训班举办">全省淮河干流河道采砂管理培训班举办</a><span>[2015-09-23]</span></li>
+		        <li><a href="/xxgkweb/detail/56025e45fd6f363c1b000016.html" target="_blank" title="枞阳县推进小型农田水利重点县项目建设">枞阳县推进小型农田水利重点县项目建设</a><span>[2015-09-23]</span></li>
+		        <li><a href="/xxgkweb/detail/56010a11fd6f367c10000016.html" target="_blank" title="厅党组召开理论中心组学习（扩大）会议">厅党组召开理论中心组学习（扩大）会议</a><span>[2015-09-22]</span></li>
+		        <li><a href="/xxgkweb/detail/560109befd6f367c10000015.html" target="_blank" title="铜陵市积极创新小型水利工程管理模式">铜陵市积极创新小型水利工程管理模式</a><span>[2015-09-22]</span></li>
+		<li class="is-list-line"></li>        <li><a href="/xxgkweb/detail/56010980fd6f367c10000014.html" target="_blank" title="我省长江崩岸应急治理工程初步设计通过审查">我省长江崩岸应急治理工程初步设计通过审查</a><span>[2015-09-22]</span></li>
+		        <li><a href="/xxgkweb/detail/56010936fd6f367c10000013.html" target="_blank" title="全省水文系统综合文秘培训班举办">全省水文系统综合文秘培训班举办</a><span>[2015-09-22]</span></li>
+		        <li><a href="/xxgkweb/detail/55ffc681fd6f36c811000007.html" target="_blank" title="水利部太湖局督导月潭水库工程建设">水利部太湖局督导月潭水库工程建设</a><span>[2015-09-21]</span></li>
+		        <li><a href="/xxgkweb/detail/55ffc637fd6f36c811000006.html" target="_blank" title="张效武赴黄山市检查指导重点水利工程建设">张效武赴黄山市检查指导重点水利工程建设</a><span>[2015-09-21]</span></li>
+		        <li><a href="/xxgkweb/detail/55ffc5e3fd6f36c811000005.html" target="_blank" title="徐业平赴枞阳江堤检查指导工作">徐业平赴枞阳江堤检查指导工作</a><span>[2015-09-21]</span></li>
+		<li class="is-list-line"></li>        <li><a href="/xxgkweb/detail/55ffc599fd6f36c811000004.html" target="_blank" title="淮北市水务局推进市级配水工程建设">淮北市水务局推进市级配水工程建设</a><span>[2015-09-21]</span></li>
+		        <li><a href="/xxgkweb/detail/55fbd40efd6f363c1b000001.html" target="_blank" title="全省国家水土保持重点工程推进会召开">全省国家水土保持重点工程推进会召开</a><span>[2015-09-18]</span></li>
+		        <li><a href="/xxgkweb/detail/55fbd3ddfd6f363c1b000000.html" target="_blank" title="我厅组织参观安徽军民抗战史实展">我厅组织参观安徽军民抗战史实展</a><span>[2015-09-18]</span></li>
+		        <li><a href="/xxgkweb/detail/55fbd3b1fd6f36581a000049.html" target="_blank" title="明光市加强河道采砂管理">明光市加强河道采砂管理</a><span>[2015-09-18]</span></li>
+		        <li><a href="/xxgkweb/detail/55fa81defd6f36d819000036.html" target="_blank" title="徐业平赴省机电排灌总站检查指导工作">徐业平赴省机电排灌总站检查指导工作</a><span>[2015-09-17]</span></li>
+		<li class="is-list-line"></li>        <li><a href="/xxgkweb/detail/55fa819efd6f36d819000035.html" target="_blank" title="南水北调工程运行管理问题责任追究办法宣贯会议召开">南水北调工程运行管理问题责任追究办法宣贯会议召开</a><span>[2015-09-17]</span></li>
+		        <li><a href="/xxgkweb/detail/55fa8159fd6f36d819000034.html" target="_blank" title="省茨淮新河工程管理局加强灌区在建工程安全生产管理">省茨淮新河工程管理局加强灌区在建工程安全生产管理</a><span>[2015-09-17]</span></li>
+		        <li><a href="/xxgkweb/detail/55fa8104fd6f36d819000033.html" target="_blank" title="省驷马山引江工程管理处开展文秘宣传工作培训">省驷马山引江工程管理处开展文秘宣传工作培训</a><span>[2015-09-17]</span></li>
+		        <li><a href="/xxgkweb/detail/55f8e3cffd6f36581a00003c.html" target="_blank" title="纪冰赴省龙河口水库管理处检查指导工作">纪冰赴省龙河口水库管理处检查指导工作</a><span>[2015-09-16]</span></li>
+		        <li><a href="/xxgkweb/detail/55f8e38ffd6f36581a00003b.html" target="_blank" title="水利部淮委督查我省淮河流域重大水利工程建设">水利部淮委督查我省淮河流域重大水利工程建设</a><span>[2015-09-16]</span></li>
 		<li class="is-list-line"></li>      </ul>	  
     </div>
-	<div id="page_list"><span class='currentpage'>1 / 496</span><span class='currentpage'>1</span><a href='/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710afe&page=2'><span class='page'>2</span></a><a href='/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710afe&page=3'><span class='page'>3</span></a><span>....</span> <a href='/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710afe&page=496'><span class='page'>尾页</span></a> </div> 
+	<div id="page_list"><span class='currentpage'>91 / 496</span><a href='/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710afe&page=1' ><span class='page'>首页</span></a> <span>....</span><a href='/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710afe&page=89'><span class='page'>89</span></a><a href='/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710afe&page=90'><span class='page'>90</span></a><span class='currentpage'>91</span><a href='/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710afe&page=92'><span class='page'>92</span></a><a href='/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710afe&page=93'><span class='page'>93</span></a><span>....</span> <a href='/index.php?c=xxgkweb&m=channel&partcode=5212c46c082f39c638710afe&page=496'><span class='page'>尾页</span></a> </div> 
     </div>
     <div class="is-clear"></div>
 
